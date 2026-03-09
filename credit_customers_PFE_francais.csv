@@ -1,0 +1,1001 @@
+statut_compte_courant;duree_mois;credit_history;objectif_credit;montant_credit;etat_epargne;anciennete_emploi;taux_remboursement;situation_personnelle;autres_garants;anciennete_logement;importance_biens;age;autres_plans_paiement;type_logement;nombre_credits_existants;categorie_emploi;nombre_personnes_a_charge;possede_telephone;travailleur_etranger;classe
+<0;6;critique/autre crédit existant;radio/tv;1169;épargne inconnue;>=7;4;homme célibataire;aucun;4;immobilier;67;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;48;existant remboursé;radio/tv;5951;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;immobilier;22;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;études;2096;<100;4<=X<7;2;homme célibataire;aucun;3;immobilier;49;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+<0;42;existant remboursé;meubles/équipement;7882;<100;4<=X<7;2;homme célibataire;garant;4;assurance vie;45;aucun;gratuit;1;qualifié;2;aucun;oui;bon
+<0;24;retards antérieurs;nouvelle voiture;4870;<100;1<=X<4;3;homme célibataire;aucun;4;pas de propriété;53;aucun;gratuit;2;qualifié;2;aucun;oui;mauvais
+pas_de_compte;36;existant remboursé;études;9055;épargne inconnue;1<=X<4;2;homme célibataire;aucun;4;pas de propriété;35;aucun;gratuit;1;unqualifié resident;2;oui;oui;bon
+pas_de_compte;24;existant remboursé;meubles/équipement;2835;500<=X<1000;>=7;3;homme célibataire;aucun;4;assurance vie;53;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;36;existant remboursé;voiture occasion;6948;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;35;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;3059;>=1000;4<=X<7;2;homme divorcé/séparé;aucun;4;immobilier;61;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;30;critique/autre crédit existant;nouvelle voiture;5234;<100;sans emploi;4;homme marié/veuf;aucun;2;voiture;28;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;aucun;oui;mauvais
+0<=X<200;12;existant remboursé;nouvelle voiture;1295;<100;<1;3;femme div/dép/mariée;aucun;1;voiture;25;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;48;existant remboursé;affaires;4308;<100;<1;3;femme div/dép/mariée;aucun;4;assurance vie;24;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;12;existant remboursé;radio/tv;1567;<100;1<=X<4;1;femme div/dép/mariée;aucun;1;voiture;22;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;24;critique/autre crédit existant;nouvelle voiture;1199;<100;>=7;4;homme célibataire;aucun;4;voiture;60;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;mauvais
+<0;15;existant remboursé;nouvelle voiture;1403;<100;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;28;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;24;existant remboursé;radio/tv;1282;100<=X<500;1<=X<4;4;femme div/dép/mariée;aucun;2;voiture;32;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;radio/tv;2424;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;53;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;30;aucun crédit/tout remboursé;affaires;8072;épargne inconnue;<1;2;homme célibataire;aucun;3;voiture;25;banque;propriétaire;3;qualifié;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;voiture occasion;12579;<100;>=7;4;femme div/dép/mariée;aucun;2;pas de propriété;44;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;24;existant remboursé;radio/tv;3430;500<=X<1000;>=7;3;homme célibataire;aucun;2;voiture;31;aucun;propriétaire;1;qualifié;2;oui;oui;bon
+pas_de_compte;9;critique/autre crédit existant;nouvelle voiture;2134;<100;1<=X<4;4;homme célibataire;aucun;4;voiture;48;aucun;propriétaire;3;qualifié;1;oui;oui;bon
+<0;6;existant remboursé;radio/tv;2647;500<=X<1000;1<=X<4;2;homme célibataire;aucun;3;immobilier;44;aucun;locataire;1;qualifié;2;aucun;oui;bon
+<0;10;critique/autre crédit existant;nouvelle voiture;2241;<100;<1;1;homme célibataire;aucun;3;immobilier;48;aucun;locataire;2;unqualifié resident;2;aucun;non;bon
+0<=X<200;12;critique/autre crédit existant;voiture occasion;1804;100<=X<500;<1;3;homme célibataire;aucun;4;assurance vie;44;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;10;critique/autre crédit existant;meubles/équipement;2069;épargne inconnue;1<=X<4;2;homme marié/veuf;aucun;1;voiture;26;aucun;propriétaire;2;qualifié;1;aucun;non;bon
+<0;6;existant remboursé;meubles/équipement;1374;<100;1<=X<4;1;homme célibataire;aucun;2;immobilier;36;banque;propriétaire;1;unqualifié resident;1;oui;oui;bon
+pas_de_compte;6;aucun crédit/tout remboursé;radio/tv;426;<100;>=7;4;homme marié/veuf;aucun;4;voiture;39;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+>=200;12;tout remboursé;radio/tv;409;>=1000;1<=X<4;3;femme div/dép/mariée;aucun;3;immobilier;42;aucun;locataire;2;qualifié;1;aucun;oui;bon
+0<=X<200;7;existant remboursé;radio/tv;2415;<100;1<=X<4;3;homme célibataire;garant;2;immobilier;34;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;60;retards antérieurs;affaires;6836;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;63;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+0<=X<200;18;existant remboursé;affaires;1913;>=1000;<1;3;homme marié/veuf;aucun;3;immobilier;36;banque;propriétaire;1;qualifié;1;oui;oui;bon
+<0;24;existant remboursé;meubles/équipement;4020;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;27;magasins;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;nouvelle voiture;5866;100<=X<500;1<=X<4;2;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;affaires;1264;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;57;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+>=200;12;existant remboursé;meubles/équipement;1474;<100;<1;4;femme div/dép/mariée;aucun;1;assurance vie;33;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;45;critique/autre crédit existant;radio/tv;4746;<100;<1;4;homme célibataire;aucun;2;assurance vie;25;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;48;critique/autre crédit existant;études;6110;<100;1<=X<4;1;homme célibataire;aucun;3;pas de propriété;31;banque;gratuit;1;qualifié;1;oui;oui;bon
+>=200;18;existant remboursé;radio/tv;2100;<100;1<=X<4;4;homme célibataire;co-emprunteur;2;immobilier;37;magasins;propriétaire;1;qualifié;1;aucun;oui;mauvais
+>=200;10;existant remboursé;électroménager;1225;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;37;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;9;existant remboursé;radio/tv;458;<100;1<=X<4;4;homme célibataire;aucun;3;immobilier;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;30;existant remboursé;radio/tv;2333;500<=X<1000;>=7;4;homme célibataire;aucun;2;voiture;30;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1158;500<=X<1000;1<=X<4;3;homme divorcé/séparé;aucun;1;voiture;26;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;18;retards antérieurs;réparations;6204;<100;1<=X<4;2;homme célibataire;aucun;4;immobilier;44;aucun;propriétaire;1;unqualifié resident;2;oui;oui;bon
+<0;30;critique/autre crédit existant;voiture occasion;6187;100<=X<500;4<=X<7;1;homme marié/veuf;aucun;4;voiture;24;aucun;locataire;2;qualifié;1;aucun;oui;bon
+<0;48;critique/autre crédit existant;voiture occasion;6143;<100;>=7;4;femme div/dép/mariée;aucun;4;pas de propriété;58;magasins;gratuit;2;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;11;critique/autre crédit existant;nouvelle voiture;1393;<100;<1;4;femme div/dép/mariée;aucun;4;voiture;35;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+pas_de_compte;36;existant remboursé;radio/tv;2299;500<=X<1000;>=7;4;homme célibataire;aucun;4;voiture;39;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;6;existant remboursé;voiture occasion;1352;500<=X<1000;sans emploi;1;femme div/dép/mariée;aucun;2;assurance vie;23;aucun;locataire;1;sans emploi/non qualif non résident;1;oui;oui;bon
+pas_de_compte;11;critique/autre crédit existant;nouvelle voiture;7228;<100;1<=X<4;1;homme célibataire;aucun;4;assurance vie;39;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;2073;100<=X<500;1<=X<4;4;femme div/dép/mariée;co-emprunteur;2;immobilier;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;24;retards antérieurs;meubles/équipement;2333;épargne inconnue;<1;4;homme célibataire;aucun;2;assurance vie;29;banque;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;27;retards antérieurs;voiture occasion;5965;<100;>=7;1;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;1262;<100;1<=X<4;3;homme célibataire;aucun;2;voiture;25;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;voiture occasion;3378;épargne inconnue;1<=X<4;2;homme célibataire;aucun;1;assurance vie;31;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;36;retards antérieurs;nouvelle voiture;2225;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;57;banque;gratuit;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;6;tout remboursé;nouvelle voiture;783;épargne inconnue;1<=X<4;1;homme célibataire;garant;2;immobilier;26;magasins;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;6468;épargne inconnue;sans emploi;2;homme célibataire;aucun;1;pas de propriété;52;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;radio/tv;9566;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;voiture;31;magasins;propriétaire;2;qualifié;1;aucun;oui;bon
+>=200;18;existant remboursé;nouvelle voiture;1961;<100;>=7;3;femme div/dép/mariée;aucun;2;voiture;23;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+<0;36;critique/autre crédit existant;meubles/équipement;6229;<100;<1;4;femme div/dép/mariée;co-emprunteur;4;pas de propriété;23;aucun;locataire;2;unqualifié resident;1;oui;oui;mauvais
+0<=X<200;9;existant remboursé;affaires;1391;<100;1<=X<4;2;homme marié/veuf;aucun;1;immobilier;27;banque;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;15;critique/autre crédit existant;radio/tv;1537;épargne inconnue;>=7;4;homme célibataire;garant;4;immobilier;50;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;36;aucun crédit/tout remboursé;affaires;1953;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;61;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+0<=X<200;48;aucun crédit/tout remboursé;affaires;14421;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;25;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;24;existant remboursé;radio/tv;3181;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;26;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;27;existant remboursé;réparations;5190;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;48;aucun;propriétaire;4;qualifié;2;oui;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;2171;<100;<1;2;femme div/dép/mariée;aucun;2;voiture;29;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;1007;>=1000;1<=X<4;4;homme marié/veuf;aucun;1;immobilier;22;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;36;existant remboursé;études;1819;<100;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;37;magasins;gratuit;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;36;existant remboursé;radio/tv;2394;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;25;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;36;existant remboursé;voiture occasion;8133;<100;1<=X<4;1;femme div/dép/mariée;aucun;2;assurance vie;30;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;7;critique/autre crédit existant;radio/tv;730;épargne inconnue;>=7;4;homme célibataire;aucun;2;assurance vie;46;aucun;locataire;2;unqualifié resident;1;oui;oui;bon
+<0;8;critique/autre crédit existant;autre;1164;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;51;banque;gratuit;2;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+0<=X<200;42;critique/autre crédit existant;affaires;5954;<100;4<=X<7;2;femme div/dép/mariée;aucun;1;immobilier;41;banque;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;36;existant remboursé;études;1977;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;40;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;12;critique/autre crédit existant;voiture occasion;1526;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;66;aucun;gratuit;2;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+<0;42;existant remboursé;radio/tv;3965;<100;<1;4;homme célibataire;aucun;3;voiture;34;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;11;retards antérieurs;radio/tv;4771;<100;4<=X<7;2;homme célibataire;aucun;4;assurance vie;51;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;54;aucun crédit/tout remboursé;voiture occasion;9436;épargne inconnue;1<=X<4;2;homme célibataire;aucun;2;assurance vie;39;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+0<=X<200;30;existant remboursé;meubles/équipement;3832;<100;<1;2;homme marié/veuf;aucun;1;assurance vie;22;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;5943;épargne inconnue;<1;1;femme div/dép/mariée;aucun;1;voiture;44;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;15;existant remboursé;radio/tv;1213;500<=X<1000;>=7;4;homme célibataire;aucun;3;assurance vie;47;magasins;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;18;existant remboursé;affaires;1568;100<=X<500;1<=X<4;3;femme div/dép/mariée;aucun;4;assurance vie;24;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+<0;24;existant remboursé;autre;1755;<100;>=7;4;femme div/dép/mariée;garant;4;immobilier;58;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+<0;10;existant remboursé;radio/tv;2315;<100;>=7;3;homme célibataire;aucun;4;immobilier;52;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;affaires;1412;<100;1<=X<4;4;femme div/dép/mariée;garant;2;immobilier;29;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;18;critique/autre crédit existant;meubles/équipement;1295;<100;<1;4;femme div/dép/mariée;aucun;1;assurance vie;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;36;existant remboursé;études;12612;100<=X<500;1<=X<4;1;homme célibataire;aucun;4;pas de propriété;47;aucun;gratuit;1;qualifié;2;oui;oui;mauvais
+<0;18;existant remboursé;nouvelle voiture;2249;100<=X<500;4<=X<7;4;homme célibataire;aucun;3;voiture;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+<0;12;aucun crédit/tout remboursé;réparations;1108;<100;4<=X<7;4;homme célibataire;aucun;3;immobilier;28;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;radio/tv;618;<100;>=7;4;homme célibataire;aucun;4;immobilier;56;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;12;critique/autre crédit existant;voiture occasion;1409;<100;>=7;4;homme célibataire;aucun;3;immobilier;54;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;797;épargne inconnue;>=7;4;femme div/dép/mariée;aucun;3;assurance vie;33;banque;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+>=200;24;critique/autre crédit existant;meubles/équipement;3617;épargne inconnue;>=7;4;homme célibataire;co-emprunteur;4;pas de propriété;20;aucun;locataire;2;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;1318;>=1000;>=7;4;homme célibataire;aucun;4;immobilier;54;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;54;aucun crédit/tout remboursé;affaires;15945;<100;<1;3;homme célibataire;aucun;4;pas de propriété;58;aucun;locataire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;études;2012;épargne inconnue;4<=X<7;4;femme div/dép/mariée;aucun;2;voiture;61;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;affaires;2622;100<=X<500;1<=X<4;4;homme célibataire;aucun;4;voiture;34;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;36;critique/autre crédit existant;radio/tv;2337;<100;>=7;4;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;20;retards antérieurs;voiture occasion;7057;épargne inconnue;4<=X<7;3;homme célibataire;aucun;4;assurance vie;36;banque;locataire;2;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+pas_de_compte;24;existant remboursé;nouvelle voiture;1469;100<=X<500;>=7;4;homme marié/veuf;aucun;4;immobilier;41;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;36;existant remboursé;radio/tv;2323;<100;4<=X<7;4;homme célibataire;aucun;4;voiture;24;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;6;retards antérieurs;radio/tv;932;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;immobilier;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;9;critique/autre crédit existant;meubles/équipement;1919;<100;4<=X<7;4;homme célibataire;aucun;3;voiture;35;aucun;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;voiture occasion;2445;épargne inconnue;<1;2;homme marié/veuf;aucun;4;voiture;26;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;24;critique/autre crédit existant;autre;11938;<100;1<=X<4;2;homme célibataire;co-emprunteur;3;voiture;39;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;2;oui;oui;mauvais
+pas_de_compte;18;tout remboursé;nouvelle voiture;6458;<100;>=7;2;homme célibataire;aucun;4;pas de propriété;39;banque;propriétaire;2;hautement qualifié/indépendant/cadre;2;oui;oui;mauvais
+0<=X<200;12;existant remboursé;nouvelle voiture;6078;<100;4<=X<7;2;homme célibataire;aucun;2;voiture;32;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;existant remboursé;meubles/équipement;7721;épargne inconnue;<1;1;femme div/dép/mariée;aucun;2;assurance vie;30;aucun;propriétaire;1;qualifié;1;oui;non;bon
+0<=X<200;14;existant remboursé;affaires;1410;500<=X<1000;>=7;1;homme marié/veuf;aucun;2;immobilier;35;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;6;retards antérieurs;affaires;1449;100<=X<500;>=7;1;homme divorcé/séparé;aucun;2;voiture;31;banque;propriétaire;2;qualifié;2;aucun;oui;bon
+>=200;15;existant remboursé;études;392;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;23;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;18;existant remboursé;nouvelle voiture;6260;<100;4<=X<7;3;homme célibataire;aucun;3;immobilier;28;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;36;critique/autre crédit existant;nouvelle voiture;7855;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;immobilier;25;magasins;propriétaire;2;qualifié;1;oui;oui;mauvais
+<0;12;existant remboursé;radio/tv;1680;500<=X<1000;>=7;3;homme marié/veuf;aucun;1;immobilier;35;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;48;critique/autre crédit existant;radio/tv;3578;épargne inconnue;>=7;4;homme célibataire;aucun;1;immobilier;47;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;42;existant remboursé;radio/tv;7174;épargne inconnue;4<=X<7;4;femme div/dép/mariée;aucun;3;voiture;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;10;critique/autre crédit existant;meubles/équipement;2132;épargne inconnue;<1;2;femme div/dép/mariée;co-emprunteur;3;immobilier;27;aucun;locataire;2;qualifié;1;aucun;non;bon
+<0;33;critique/autre crédit existant;meubles/équipement;4281;500<=X<1000;1<=X<4;1;femme div/dép/mariée;aucun;4;voiture;23;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;12;critique/autre crédit existant;nouvelle voiture;2366;500<=X<1000;4<=X<7;3;homme divorcé/séparé;aucun;3;voiture;36;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;21;existant remboursé;radio/tv;1835;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;immobilier;25;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;voiture occasion;3868;<100;>=7;4;femme div/dép/mariée;aucun;2;voiture;41;aucun;locataire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;meubles/équipement;1768;<100;1<=X<4;3;homme célibataire;aucun;2;immobilier;24;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+>=200;10;critique/autre crédit existant;nouvelle voiture;781;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;63;aucun;gratuit;2;qualifié;1;oui;oui;bon
+0<=X<200;18;existant remboursé;meubles/équipement;1924;épargne inconnue;<1;4;femme div/dép/mariée;aucun;3;immobilier;27;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;12;critique/autre crédit existant;nouvelle voiture;2121;<100;1<=X<4;4;homme célibataire;aucun;2;assurance vie;30;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;radio/tv;701;<100;1<=X<4;4;homme marié/veuf;aucun;2;immobilier;40;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;réparations;639;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;12;critique/autre crédit existant;voiture occasion;1860;<100;sans emploi;4;homme célibataire;aucun;2;voiture;34;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;12;critique/autre crédit existant;nouvelle voiture;3499;<100;1<=X<4;3;femme div/dép/mariée;co-emprunteur;2;immobilier;29;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;48;existant remboursé;nouvelle voiture;8487;épargne inconnue;4<=X<7;1;femme div/dép/mariée;aucun;2;voiture;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;36;retards antérieurs;études;6887;<100;1<=X<4;4;homme célibataire;aucun;3;assurance vie;29;magasins;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;15;existant remboursé;meubles/équipement;2708;<100;<1;2;homme célibataire;aucun;3;assurance vie;27;banque;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;meubles/équipement;1984;<100;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;47;banque;gratuit;2;qualifié;1;aucun;oui;bon
+pas_de_compte;60;existant remboursé;radio/tv;10144;100<=X<500;4<=X<7;2;femme div/dép/mariée;aucun;4;immobilier;21;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;1240;épargne inconnue;>=7;4;femme div/dép/mariée;aucun;2;immobilier;38;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;27;retards antérieurs;voiture occasion;8613;>=1000;1<=X<4;2;homme célibataire;aucun;2;voiture;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;766;500<=X<1000;1<=X<4;4;homme célibataire;aucun;3;immobilier;66;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;15;critique/autre crédit existant;radio/tv;2728;épargne inconnue;4<=X<7;4;homme célibataire;garant;2;immobilier;35;banque;propriétaire;3;qualifié;1;oui;oui;bon
+>=200;12;existant remboursé;radio/tv;1881;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;voiture;44;aucun;locataire;1;unqualifié resident;1;oui;oui;bon
+>=200;6;existant remboursé;nouvelle voiture;709;>=1000;<1;2;homme marié/veuf;aucun;2;immobilier;27;aucun;propriétaire;1;sans emploi/non qualif non résident;1;aucun;non;bon
+0<=X<200;36;existant remboursé;radio/tv;4795;<100;<1;4;femme div/dép/mariée;aucun;1;pas de propriété;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;27;existant remboursé;radio/tv;3416;<100;1<=X<4;3;homme célibataire;aucun;2;voiture;27;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+<0;18;existant remboursé;meubles/équipement;2462;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;22;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;21;critique/autre crédit existant;meubles/équipement;2288;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;23;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;48;tout remboursé;affaires;3566;100<=X<500;4<=X<7;4;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;6;critique/autre crédit existant;nouvelle voiture;860;<100;>=7;1;femme div/dép/mariée;aucun;4;pas de propriété;39;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;nouvelle voiture;682;100<=X<500;4<=X<7;4;femme div/dép/mariée;aucun;3;voiture;51;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;36;critique/autre crédit existant;meubles/équipement;5371;<100;1<=X<4;3;homme célibataire;garant;2;assurance vie;28;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;1582;>=1000;>=7;4;homme célibataire;aucun;4;voiture;46;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;6;existant remboursé;radio/tv;1346;100<=X<500;>=7;2;homme célibataire;aucun;4;pas de propriété;42;banque;gratuit;1;qualifié;2;oui;oui;bon
+pas_de_compte;10;existant remboursé;radio/tv;1924;<100;1<=X<4;1;homme célibataire;aucun;4;assurance vie;38;aucun;propriétaire;1;qualifié;1;oui;non;bon
+>=200;36;existant remboursé;radio/tv;5848;<100;1<=X<4;4;homme célibataire;aucun;1;voiture;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;24;critique/autre crédit existant;voiture occasion;7758;>=1000;>=7;2;femme div/dép/mariée;aucun;4;pas de propriété;29;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;24;retards antérieurs;affaires;6967;100<=X<500;4<=X<7;4;homme célibataire;aucun;4;voiture;36;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;12;existant remboursé;meubles/équipement;1282;<100;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;20;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;9;critique/autre crédit existant;réparations;1288;100<=X<500;>=7;3;homme célibataire;garant;4;immobilier;48;aucun;propriétaire;2;qualifié;2;aucun;non;bon
+<0;12;tout remboursé;formation professionnelle;339;<100;>=7;4;homme marié/veuf;aucun;1;voiture;45;banque;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;nouvelle voiture;3512;100<=X<500;4<=X<7;2;homme célibataire;aucun;3;voiture;38;banque;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;6;critique/autre crédit existant;radio/tv;1898;épargne inconnue;1<=X<4;1;homme célibataire;aucun;2;immobilier;34;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;radio/tv;2872;100<=X<500;>=7;3;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;1;qualifié;2;oui;oui;bon
+pas_de_compte;18;critique/autre crédit existant;nouvelle voiture;1055;<100;<1;4;femme div/dép/mariée;aucun;1;assurance vie;30;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;15;existant remboursé;électroménager;1262;500<=X<1000;4<=X<7;4;homme célibataire;aucun;3;assurance vie;36;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;10;existant remboursé;nouvelle voiture;7308;<100;sans emploi;2;homme célibataire;aucun;4;pas de propriété;70;banque;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;36;existant remboursé;nouvelle voiture;909;500<=X<1000;>=7;4;homme célibataire;aucun;4;assurance vie;36;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;6;existant remboursé;meubles/équipement;2978;500<=X<1000;1<=X<4;1;homme célibataire;aucun;2;voiture;32;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;18;existant remboursé;meubles/équipement;1131;<100;sans emploi;4;femme div/dép/mariée;aucun;2;voiture;33;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;11;existant remboursé;meubles/équipement;1577;>=1000;<1;4;femme div/dép/mariée;aucun;1;immobilier;20;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;meubles/équipement;3972;<100;4<=X<7;2;femme div/dép/mariée;aucun;4;assurance vie;25;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;24;critique/autre crédit existant;affaires;1935;<100;>=7;4;homme divorcé/séparé;aucun;4;immobilier;31;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+<0;15;aucun crédit/tout remboursé;nouvelle voiture;950;<100;>=7;4;homme célibataire;aucun;3;voiture;33;aucun;locataire;2;qualifié;2;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;meubles/équipement;763;<100;1<=X<4;4;femme div/dép/mariée;aucun;1;immobilier;26;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;24;retards antérieurs;meubles/équipement;2064;<100;sans emploi;3;femme div/dép/mariée;aucun;2;assurance vie;34;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+0<=X<200;8;existant remboursé;radio/tv;1414;<100;1<=X<4;4;homme célibataire;garant;2;immobilier;33;aucun;propriétaire;1;qualifié;1;aucun;non;bon
+<0;21;retards antérieurs;études;3414;<100;<1;2;homme célibataire;aucun;1;assurance vie;26;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;30;tout remboursé;voiture occasion;7485;épargne inconnue;sans emploi;4;femme div/dép/mariée;aucun;1;immobilier;53;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;12;existant remboursé;meubles/équipement;2577;<100;1<=X<4;2;homme divorcé/séparé;aucun;1;voiture;42;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;6;critique/autre crédit existant;radio/tv;338;500<=X<1000;>=7;4;homme célibataire;aucun;4;voiture;52;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;1963;<100;4<=X<7;4;homme célibataire;aucun;2;voiture;31;aucun;locataire;2;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+<0;21;critique/autre crédit existant;nouvelle voiture;571;<100;>=7;4;homme célibataire;aucun;4;immobilier;65;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;36;retards antérieurs;affaires;9572;<100;<1;1;homme divorcé/séparé;aucun;1;voiture;28;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;36;retards antérieurs;affaires;4455;<100;1<=X<4;2;homme divorcé/séparé;aucun;2;immobilier;30;magasins;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;21;tout remboursé;nouvelle voiture;1647;épargne inconnue;1<=X<4;4;homme célibataire;aucun;2;assurance vie;40;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;meubles/équipement;3777;>=1000;1<=X<4;4;homme célibataire;aucun;4;immobilier;50;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;18;critique/autre crédit existant;nouvelle voiture;884;<100;>=7;4;homme célibataire;aucun;4;voiture;36;banque;propriétaire;1;qualifié;2;oui;oui;mauvais
+pas_de_compte;15;critique/autre crédit existant;radio/tv;1360;<100;1<=X<4;4;homme célibataire;aucun;2;assurance vie;31;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;9;tout remboursé;voiture occasion;5129;<100;>=7;2;femme div/dép/mariée;aucun;4;pas de propriété;74;banque;gratuit;1;hautement qualifié/indépendant/cadre;2;oui;oui;mauvais
+0<=X<200;16;critique/autre crédit existant;nouvelle voiture;1175;<100;sans emploi;2;homme célibataire;aucun;3;voiture;68;aucun;gratuit;3;sans emploi/non qualif non résident;1;oui;oui;bon
+<0;12;existant remboursé;radio/tv;674;100<=X<500;4<=X<7;4;homme marié/veuf;aucun;1;assurance vie;20;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;18;aucun crédit/tout remboursé;meubles/équipement;3244;<100;1<=X<4;1;femme div/dép/mariée;aucun;4;voiture;33;banque;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;affaires;4591;>=1000;1<=X<4;2;homme célibataire;aucun;3;assurance vie;54;aucun;propriétaire;3;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+0<=X<200;48;aucun crédit/tout remboursé;affaires;3844;100<=X<500;4<=X<7;4;homme célibataire;aucun;4;pas de propriété;34;aucun;gratuit;1;unqualifié resident;2;aucun;oui;mauvais
+0<=X<200;27;existant remboursé;affaires;3915;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;36;aucun;propriétaire;1;qualifié;2;oui;oui;mauvais
+pas_de_compte;6;existant remboursé;radio/tv;2108;<100;4<=X<7;2;homme marié/veuf;aucun;2;immobilier;29;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;45;existant remboursé;radio/tv;3031;100<=X<500;1<=X<4;4;homme célibataire;garant;4;assurance vie;21;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;9;critique/autre crédit existant;études;1501;<100;>=7;2;femme div/dép/mariée;aucun;3;voiture;34;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;6;critique/autre crédit existant;radio/tv;1382;<100;1<=X<4;1;femme div/dép/mariée;aucun;1;voiture;28;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;12;existant remboursé;meubles/équipement;951;100<=X<500;<1;4;femme div/dép/mariée;aucun;4;voiture;27;banque;locataire;4;qualifié;1;aucun;oui;mauvais
+0<=X<200;24;existant remboursé;voiture occasion;2760;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;36;banque;gratuit;1;qualifié;1;oui;oui;bon
+0<=X<200;18;retards antérieurs;meubles/équipement;4297;<100;>=7;4;homme divorcé/séparé;aucun;3;pas de propriété;40;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;9;critique/autre crédit existant;études;936;500<=X<1000;>=7;4;homme célibataire;aucun;2;voiture;52;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;12;existant remboursé;nouvelle voiture;1168;<100;1<=X<4;4;homme marié/veuf;aucun;3;immobilier;27;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;27;retards antérieurs;affaires;5117;<100;4<=X<7;3;homme célibataire;aucun;4;voiture;26;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;formation professionnelle;902;<100;4<=X<7;4;homme marié/veuf;aucun;4;assurance vie;21;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;nouvelle voiture;1495;<100;>=7;4;homme célibataire;aucun;1;immobilier;38;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+<0;30;critique/autre crédit existant;voiture occasion;10623;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;38;aucun;gratuit;3;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;meubles/équipement;1935;<100;>=7;4;homme célibataire;aucun;4;immobilier;43;aucun;propriétaire;3;qualifié;1;oui;oui;bon
+0<=X<200;12;critique/autre crédit existant;électroménager;1424;<100;4<=X<7;4;homme célibataire;aucun;3;assurance vie;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;existant remboursé;affaires;6568;<100;1<=X<4;2;homme marié/veuf;aucun;2;voiture;21;magasins;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;12;existant remboursé;voiture occasion;1413;>=1000;4<=X<7;3;homme célibataire;aucun;2;assurance vie;55;aucun;propriétaire;1;qualifié;1;aucun;non;bon
+pas_de_compte;9;critique/autre crédit existant;radio/tv;3074;épargne inconnue;1<=X<4;1;homme célibataire;aucun;2;immobilier;33;aucun;propriétaire;2;qualifié;2;aucun;oui;bon
+pas_de_compte;36;existant remboursé;radio/tv;3835;épargne inconnue;>=7;2;femme div/dép/mariée;aucun;4;immobilier;45;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+<0;27;aucun crédit/tout remboursé;affaires;5293;<100;sans emploi;2;homme célibataire;aucun;4;assurance vie;50;magasins;propriétaire;2;qualifié;1;oui;oui;mauvais
+>=200;30;retards antérieurs;affaires;1908;<100;>=7;4;homme célibataire;aucun;4;immobilier;66;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;radio/tv;3342;épargne inconnue;>=7;4;homme célibataire;aucun;2;voiture;51;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;6;critique/autre crédit existant;formation professionnelle;932;épargne inconnue;4<=X<7;1;femme div/dép/mariée;aucun;3;assurance vie;39;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;18;aucun crédit/tout remboursé;affaires;3104;<100;4<=X<7;3;homme célibataire;aucun;1;assurance vie;31;banque;propriétaire;1;qualifié;1;oui;oui;bon
+>=200;36;existant remboursé;radio/tv;3913;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;23;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;24;existant remboursé;meubles/équipement;3021;<100;1<=X<4;2;homme divorcé/séparé;aucun;2;immobilier;24;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;10;existant remboursé;nouvelle voiture;1364;<100;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;64;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;625;<100;<1;4;homme marié/veuf;garant;1;immobilier;26;banque;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;12;existant remboursé;études;1200;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;4;assurance vie;23;banque;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;707;<100;1<=X<4;4;homme célibataire;aucun;2;immobilier;30;banque;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;retards antérieurs;affaires;2978;épargne inconnue;1<=X<4;4;homme célibataire;aucun;4;immobilier;32;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+pas_de_compte;15;existant remboursé;voiture occasion;4657;<100;1<=X<4;3;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;36;aucun crédit/tout remboursé;réparations;2613;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;48;existant remboursé;radio/tv;10961;>=1000;4<=X<7;1;homme célibataire;co-emprunteur;2;pas de propriété;27;banque;propriétaire;2;qualifié;1;oui;oui;mauvais
+<0;12;existant remboursé;meubles/équipement;7865;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;53;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;9;existant remboursé;radio/tv;1478;<100;4<=X<7;4;homme célibataire;aucun;2;voiture;22;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;24;existant remboursé;meubles/équipement;3149;<100;<1;4;homme célibataire;aucun;1;pas de propriété;22;banque;gratuit;1;qualifié;1;aucun;oui;bon
+>=200;36;existant remboursé;radio/tv;4210;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;26;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;9;existant remboursé;nouvelle voiture;2507;500<=X<1000;>=7;2;homme célibataire;aucun;4;pas de propriété;51;aucun;gratuit;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;2141;100<=X<500;4<=X<7;3;homme célibataire;aucun;1;pas de propriété;35;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;radio/tv;866;<100;1<=X<4;4;homme marié/veuf;garant;2;immobilier;25;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;4;critique/autre crédit existant;radio/tv;1544;<100;4<=X<7;2;homme célibataire;aucun;1;immobilier;42;aucun;propriétaire;3;unqualifié resident;2;aucun;oui;bon
+<0;24;existant remboursé;radio/tv;1823;<100;sans emploi;4;homme célibataire;aucun;2;voiture;30;magasins;propriétaire;1;hautement qualifié/indépendant/cadre;2;aucun;oui;mauvais
+0<=X<200;6;existant remboursé;nouvelle voiture;14555;épargne inconnue;sans emploi;1;homme célibataire;aucun;2;assurance vie;23;aucun;propriétaire;1;sans emploi/non qualif non résident;1;oui;oui;mauvais
+0<=X<200;21;existant remboursé;affaires;2767;100<=X<500;>=7;4;homme divorcé/séparé;aucun;2;voiture;61;banque;locataire;2;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;radio/tv;1291;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;assurance vie;35;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;30;existant remboursé;radio/tv;2522;<100;>=7;1;homme célibataire;garant;3;assurance vie;39;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;24;existant remboursé;nouvelle voiture;915;épargne inconnue;>=7;4;femme div/dép/mariée;aucun;2;voiture;29;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;6;existant remboursé;radio/tv;1595;<100;4<=X<7;3;homme célibataire;aucun;2;assurance vie;51;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;48;aucun crédit/tout remboursé;voiture occasion;4605;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;24;aucun;gratuit;2;qualifié;2;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;affaires;1185;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;immobilier;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;tout remboursé;formation professionnelle;3447;500<=X<1000;1<=X<4;4;femme div/dép/mariée;aucun;3;immobilier;35;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;24;existant remboursé;affaires;1258;<100;4<=X<7;4;homme célibataire;aucun;1;immobilier;25;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;717;<100;>=7;4;homme célibataire;aucun;4;immobilier;52;aucun;propriétaire;3;qualifié;1;aucun;oui;bon
+pas_de_compte;6;aucun crédit/tout remboursé;nouvelle voiture;1204;100<=X<500;1<=X<4;4;homme célibataire;aucun;1;pas de propriété;35;banque;locataire;1;qualifié;1;aucun;non;bon
+>=200;24;existant remboursé;meubles/équipement;1925;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;radio/tv;433;<100;sans emploi;3;femme div/dép/mariée;co-emprunteur;4;immobilier;22;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;6;critique/autre crédit existant;nouvelle voiture;666;>=1000;4<=X<7;3;femme div/dép/mariée;aucun;4;immobilier;39;aucun;propriétaire;2;unqualifié resident;1;oui;oui;bon
+>=200;12;existant remboursé;meubles/équipement;2251;<100;1<=X<4;1;femme div/dép/mariée;aucun;2;voiture;46;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;30;existant remboursé;nouvelle voiture;2150;<100;1<=X<4;4;femme div/dép/mariée;garant;2;pas de propriété;24;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;retards antérieurs;meubles/équipement;4151;100<=X<500;1<=X<4;2;homme célibataire;aucun;3;assurance vie;35;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;9;existant remboursé;meubles/équipement;2030;épargne inconnue;4<=X<7;2;homme célibataire;aucun;1;voiture;24;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;60;retards antérieurs;radio/tv;7418;épargne inconnue;1<=X<4;1;homme célibataire;aucun;1;immobilier;27;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;radio/tv;2684;<100;1<=X<4;4;homme célibataire;aucun;2;immobilier;35;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;12;tout remboursé;radio/tv;2149;<100;1<=X<4;4;homme divorcé/séparé;aucun;1;pas de propriété;29;aucun;gratuit;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;15;existant remboursé;voiture occasion;3812;100<=X<500;<1;1;femme div/dép/mariée;aucun;4;voiture;23;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;11;critique/autre crédit existant;radio/tv;1154;100<=X<500;sans emploi;4;femme div/dép/mariée;aucun;4;immobilier;57;aucun;propriétaire;3;unqualifié resident;1;aucun;oui;bon
+<0;12;existant remboursé;meubles/équipement;1657;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;27;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;existant remboursé;radio/tv;1603;<100;>=7;4;femme div/dép/mariée;aucun;4;voiture;55;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;18;critique/autre crédit existant;nouvelle voiture;5302;<100;>=7;2;homme célibataire;aucun;4;pas de propriété;36;aucun;gratuit;3;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;études;2748;<100;>=7;2;femme div/dép/mariée;aucun;4;pas de propriété;57;banque;gratuit;3;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;10;critique/autre crédit existant;nouvelle voiture;1231;<100;>=7;3;homme célibataire;aucun;4;immobilier;32;aucun;propriétaire;2;unqualifié resident;2;aucun;non;bon
+0<=X<200;15;existant remboursé;radio/tv;802;<100;>=7;4;homme célibataire;aucun;3;voiture;37;aucun;propriétaire;1;qualifié;2;aucun;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;affaires;6304;épargne inconnue;>=7;4;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;1533;<100;<1;4;femme div/dép/mariée;aucun;3;voiture;38;magasins;propriétaire;1;qualifié;1;oui;oui;bon
+<0;14;existant remboursé;nouvelle voiture;8978;<100;>=7;1;homme divorcé/séparé;aucun;4;assurance vie;45;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;non;mauvais
+pas_de_compte;24;existant remboursé;radio/tv;999;épargne inconnue;>=7;4;homme célibataire;aucun;2;voiture;25;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;nouvelle voiture;2662;épargne inconnue;4<=X<7;4;homme célibataire;aucun;3;assurance vie;32;aucun;propriétaire;1;qualifié;1;aucun;non;bon
+pas_de_compte;12;critique/autre crédit existant;meubles/équipement;1402;500<=X<1000;4<=X<7;3;femme div/dép/mariée;aucun;4;voiture;37;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;48;tout remboursé;nouvelle voiture;12169;épargne inconnue;sans emploi;4;homme célibataire;co-emprunteur;4;pas de propriété;36;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;48;existant remboursé;radio/tv;3060;<100;4<=X<7;4;homme célibataire;aucun;4;immobilier;28;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+<0;30;existant remboursé;réparations;11998;<100;<1;1;homme divorcé/séparé;aucun;1;pas de propriété;34;aucun;propriétaire;1;unqualifié resident;1;oui;oui;mauvais
+pas_de_compte;9;existant remboursé;radio/tv;2697;<100;1<=X<4;1;homme célibataire;aucun;2;immobilier;32;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;2404;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;voiture;26;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;meubles/équipement;1262;épargne inconnue;>=7;2;homme divorcé/séparé;aucun;4;assurance vie;49;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+pas_de_compte;6;existant remboursé;meubles/équipement;4611;<100;<1;1;femme div/dép/mariée;aucun;4;assurance vie;32;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;existant remboursé;radio/tv;1901;100<=X<500;1<=X<4;4;homme célibataire;aucun;4;voiture;29;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;15;critique/autre crédit existant;voiture occasion;3368;>=1000;>=7;3;homme célibataire;aucun;4;pas de propriété;23;aucun;locataire;2;qualifié;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;meubles/équipement;1574;<100;1<=X<4;4;homme célibataire;aucun;2;immobilier;50;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+>=200;18;tout remboursé;radio/tv;1445;épargne inconnue;4<=X<7;4;homme célibataire;aucun;4;voiture;49;banque;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;15;critique/autre crédit existant;meubles/équipement;1520;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;63;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;24;critique/autre crédit existant;nouvelle voiture;3878;100<=X<500;<1;4;homme divorcé/séparé;aucun;2;voiture;37;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;47;existant remboursé;nouvelle voiture;10722;<100;<1;1;femme div/dép/mariée;aucun;1;immobilier;35;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+<0;48;existant remboursé;voiture occasion;4788;<100;4<=X<7;4;homme célibataire;aucun;3;assurance vie;26;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+0<=X<200;48;retards antérieurs;autre;7582;100<=X<500;sans emploi;2;homme célibataire;aucun;4;pas de propriété;31;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1092;<100;1<=X<4;4;femme div/dép/mariée;garant;4;immobilier;49;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;24;retards antérieurs;radio/tv;1024;<100;<1;4;homme marié/veuf;aucun;4;immobilier;48;magasins;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;affaires;1076;<100;1<=X<4;2;homme marié/veuf;aucun;2;immobilier;26;aucun;propriétaire;1;qualifié;1;oui;non;bon
+0<=X<200;36;existant remboursé;voiture occasion;9398;<100;<1;1;homme marié/veuf;aucun;4;voiture;28;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;24;critique/autre crédit existant;voiture occasion;6419;<100;>=7;2;femme div/dép/mariée;aucun;4;pas de propriété;44;aucun;gratuit;2;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+>=200;42;critique/autre crédit existant;voiture occasion;4796;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;56;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+pas_de_compte;48;critique/autre crédit existant;affaires;7629;épargne inconnue;>=7;4;homme divorcé/séparé;aucun;2;voiture;46;banque;propriétaire;2;hautement qualifié/indépendant/cadre;2;aucun;oui;bon
+0<=X<200;48;existant remboursé;meubles/équipement;9960;<100;<1;1;femme div/dép/mariée;aucun;2;voiture;26;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;12;existant remboursé;voiture occasion;4675;épargne inconnue;<1;1;femme div/dép/mariée;aucun;4;voiture;20;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;10;existant remboursé;nouvelle voiture;1287;épargne inconnue;>=7;4;homme célibataire;co-emprunteur;2;assurance vie;45;aucun;propriétaire;1;unqualifié resident;1;aucun;non;bon
+pas_de_compte;18;existant remboursé;meubles/équipement;2515;<100;1<=X<4;3;homme célibataire;aucun;4;immobilier;43;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;21;critique/autre crédit existant;meubles/équipement;2745;>=1000;4<=X<7;3;homme célibataire;aucun;2;voiture;32;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;6;existant remboursé;nouvelle voiture;672;<100;sans emploi;1;femme div/dép/mariée;aucun;4;immobilier;54;aucun;propriétaire;1;sans emploi/non qualif non résident;1;oui;oui;bon
+0<=X<200;36;aucun crédit/tout remboursé;radio/tv;3804;<100;1<=X<4;4;femme div/dép/mariée;aucun;1;voiture;42;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+>=200;24;critique/autre crédit existant;nouvelle voiture;1344;épargne inconnue;4<=X<7;4;homme célibataire;aucun;2;immobilier;37;banque;propriétaire;2;unqualifié resident;2;aucun;oui;mauvais
+<0;10;critique/autre crédit existant;nouvelle voiture;1038;<100;4<=X<7;4;homme célibataire;co-emprunteur;3;assurance vie;49;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;48;critique/autre crédit existant;nouvelle voiture;10127;500<=X<1000;1<=X<4;2;homme célibataire;aucun;2;pas de propriété;44;banque;gratuit;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;6;existant remboursé;meubles/équipement;1543;>=1000;1<=X<4;4;homme divorcé/séparé;aucun;2;immobilier;33;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;30;existant remboursé;voiture occasion;4811;épargne inconnue;4<=X<7;2;femme div/dép/mariée;aucun;4;assurance vie;24;magasins;locataire;1;unqualifié resident;1;aucun;oui;bon
+<0;12;existant remboursé;radio/tv;727;100<=X<500;<1;4;homme marié/veuf;aucun;3;pas de propriété;33;aucun;propriétaire;1;unqualifié resident;1;oui;oui;mauvais
+0<=X<200;8;existant remboursé;meubles/équipement;1237;<100;1<=X<4;3;femme div/dép/mariée;aucun;4;immobilier;24;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;9;existant remboursé;nouvelle voiture;276;<100;1<=X<4;4;homme marié/veuf;aucun;4;immobilier;22;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;48;existant remboursé;autre;5381;épargne inconnue;sans emploi;3;homme célibataire;aucun;4;pas de propriété;40;banque;gratuit;1;sans emploi/non qualif non résident;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;meubles/équipement;5511;100<=X<500;1<=X<4;4;homme célibataire;aucun;1;voiture;25;magasins;propriétaire;1;qualifié;1;aucun;oui;bon
+>=200;24;existant remboursé;meubles/équipement;3749;<100;<1;2;femme div/dép/mariée;aucun;4;voiture;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;685;<100;4<=X<7;2;homme marié/veuf;aucun;3;voiture;25;banque;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+>=200;4;existant remboursé;nouvelle voiture;1494;épargne inconnue;<1;1;homme célibataire;aucun;2;immobilier;29;aucun;propriétaire;1;unqualifié resident;2;aucun;non;bon
+<0;36;tout remboursé;meubles/équipement;2746;<100;>=7;4;homme célibataire;aucun;4;voiture;31;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;12;existant remboursé;meubles/équipement;708;<100;1<=X<4;2;homme célibataire;garant;3;assurance vie;38;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+0<=X<200;24;existant remboursé;meubles/équipement;4351;épargne inconnue;1<=X<4;1;femme div/dép/mariée;aucun;4;assurance vie;48;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;études;701;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;32;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;15;retards antérieurs;meubles/équipement;3643;<100;>=7;1;femme div/dép/mariée;aucun;4;assurance vie;27;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;30;critique/autre crédit existant;nouvelle voiture;4249;<100;sans emploi;4;homme marié/veuf;aucun;2;voiture;28;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;aucun;oui;mauvais
+<0;24;existant remboursé;radio/tv;1938;<100;<1;4;homme divorcé/séparé;aucun;3;assurance vie;32;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;24;existant remboursé;voiture occasion;2910;<100;4<=X<7;2;homme célibataire;aucun;1;pas de propriété;34;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;18;existant remboursé;meubles/équipement;2659;>=1000;1<=X<4;4;homme célibataire;aucun;2;voiture;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;nouvelle voiture;1028;<100;1<=X<4;4;femme div/dép/mariée;aucun;3;immobilier;36;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;8;critique/autre crédit existant;nouvelle voiture;3398;<100;4<=X<7;1;homme célibataire;aucun;4;immobilier;39;aucun;propriétaire;2;unqualifié resident;1;aucun;non;bon
+pas_de_compte;12;critique/autre crédit existant;meubles/équipement;5801;épargne inconnue;>=7;2;homme célibataire;aucun;4;assurance vie;49;aucun;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;nouvelle voiture;1525;>=1000;4<=X<7;4;femme div/dép/mariée;aucun;3;voiture;34;aucun;propriétaire;1;qualifié;2;oui;oui;bon
+>=200;36;existant remboursé;radio/tv;4473;<100;>=7;4;homme célibataire;aucun;2;voiture;31;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;6;existant remboursé;radio/tv;1068;<100;>=7;4;homme célibataire;aucun;4;voiture;28;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;24;critique/autre crédit existant;voiture occasion;6615;<100;sans emploi;2;homme célibataire;aucun;4;pas de propriété;75;aucun;gratuit;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;18;critique/autre crédit existant;études;1864;100<=X<500;1<=X<4;4;femme div/dép/mariée;aucun;2;immobilier;30;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;60;existant remboursé;nouvelle voiture;7408;100<=X<500;<1;4;femme div/dép/mariée;aucun;2;assurance vie;24;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;mauvais
+pas_de_compte;48;critique/autre crédit existant;voiture occasion;11590;100<=X<500;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;24;banque;locataire;2;unqualifié resident;1;aucun;oui;mauvais
+<0;24;aucun crédit/tout remboursé;meubles/équipement;4110;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;23;banque;locataire;2;qualifié;2;aucun;oui;mauvais
+<0;6;critique/autre crédit existant;meubles/équipement;3384;<100;1<=X<4;1;homme divorcé/séparé;aucun;4;immobilier;44;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+0<=X<200;13;existant remboursé;radio/tv;2101;<100;<1;2;femme div/dép/mariée;garant;4;assurance vie;23;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;15;existant remboursé;électroménager;1275;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;2;voiture;24;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;24;existant remboursé;meubles/équipement;4169;<100;1<=X<4;4;homme célibataire;aucun;4;assurance vie;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;10;existant remboursé;meubles/équipement;1521;<100;1<=X<4;4;homme divorcé/séparé;aucun;2;voiture;31;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;24;critique/autre crédit existant;études;5743;<100;<1;2;femme div/dép/mariée;aucun;4;pas de propriété;24;aucun;gratuit;2;qualifié;1;oui;oui;bon
+<0;21;existant remboursé;meubles/équipement;3599;<100;4<=X<7;1;femme div/dép/mariée;aucun;4;voiture;26;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;radio/tv;3213;500<=X<1000;<1;1;homme marié/veuf;aucun;3;immobilier;25;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;affaires;4439;<100;>=7;1;homme célibataire;co-emprunteur;1;immobilier;33;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+>=200;10;existant remboursé;nouvelle voiture;3949;<100;<1;1;homme célibataire;garant;1;assurance vie;37;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;15;critique/autre crédit existant;radio/tv;1459;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;voiture;43;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;13;critique/autre crédit existant;radio/tv;882;<100;<1;4;homme célibataire;garant;4;immobilier;23;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;radio/tv;3758;500<=X<1000;sans emploi;1;femme div/dép/mariée;aucun;4;pas de propriété;23;aucun;locataire;1;sans emploi/non qualif non résident;1;aucun;oui;bon
+pas_de_compte;6;retards antérieurs;affaires;1743;100<=X<500;1<=X<4;1;homme célibataire;aucun;2;immobilier;34;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;9;critique/autre crédit existant;études;1136;>=1000;>=7;4;homme célibataire;aucun;3;pas de propriété;32;aucun;gratuit;2;qualifié;2;aucun;oui;mauvais
+pas_de_compte;9;existant remboursé;électroménager;1236;<100;<1;1;femme div/dép/mariée;aucun;4;immobilier;23;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;9;existant remboursé;meubles/équipement;959;<100;1<=X<4;1;femme div/dép/mariée;aucun;2;voiture;29;aucun;propriétaire;1;qualifié;1;aucun;non;mauvais
+pas_de_compte;18;critique/autre crédit existant;voiture occasion;3229;épargne inconnue;sans emploi;2;homme célibataire;aucun;4;pas de propriété;38;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;12;aucun crédit/tout remboursé;radio/tv;6199;<100;1<=X<4;4;homme célibataire;aucun;2;assurance vie;28;aucun;locataire;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;10;existant remboursé;études;727;500<=X<1000;>=7;4;homme célibataire;aucun;4;pas de propriété;46;aucun;gratuit;1;qualifié;1;oui;oui;bon
+0<=X<200;24;existant remboursé;nouvelle voiture;1246;<100;<1;4;homme célibataire;aucun;2;immobilier;23;magasins;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;radio/tv;2331;épargne inconnue;>=7;1;homme célibataire;co-emprunteur;4;immobilier;49;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;36;retards antérieurs;radio/tv;4463;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;26;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;12;existant remboursé;radio/tv;776;<100;1<=X<4;4;homme marié/veuf;aucun;2;immobilier;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;30;existant remboursé;meubles/équipement;2406;<100;4<=X<7;4;femme div/dép/mariée;aucun;4;immobilier;23;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;18;existant remboursé;études;1239;épargne inconnue;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;61;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+>=200;12;existant remboursé;radio/tv;3399;épargne inconnue;>=7;2;homme célibataire;aucun;3;voiture;37;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+>=200;12;retards antérieurs;nouvelle voiture;2247;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;voiture;36;magasins;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;6;existant remboursé;meubles/équipement;1766;<100;1<=X<4;1;homme marié/veuf;aucun;2;assurance vie;21;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;18;existant remboursé;meubles/équipement;2473;<100;sans emploi;4;homme célibataire;aucun;1;voiture;25;aucun;propriétaire;1;sans emploi/non qualif non résident;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;affaires;1542;<100;4<=X<7;2;homme célibataire;aucun;4;voiture;36;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;18;critique/autre crédit existant;voiture occasion;3850;<100;4<=X<7;3;homme célibataire;aucun;1;voiture;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;18;existant remboursé;meubles/équipement;3650;<100;<1;1;femme div/dép/mariée;aucun;4;voiture;22;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;36;existant remboursé;meubles/équipement;3446;<100;>=7;4;homme célibataire;aucun;2;voiture;42;aucun;propriétaire;1;qualifié;2;aucun;oui;mauvais
+0<=X<200;18;existant remboursé;meubles/équipement;3001;<100;4<=X<7;2;femme div/dép/mariée;aucun;4;immobilier;40;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;36;existant remboursé;nouvelle voiture;3079;épargne inconnue;1<=X<4;4;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;6070;<100;>=7;3;homme célibataire;aucun;4;voiture;33;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;10;critique/autre crédit existant;meubles/équipement;2146;<100;<1;1;femme div/dép/mariée;aucun;3;immobilier;23;aucun;locataire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;60;critique/autre crédit existant;nouvelle voiture;13756;épargne inconnue;>=7;2;homme célibataire;aucun;4;pas de propriété;63;banque;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;60;tout remboursé;autre;14782;100<=X<500;>=7;3;femme div/dép/mariée;aucun;4;pas de propriété;60;banque;gratuit;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;48;tout remboursé;affaires;7685;<100;4<=X<7;2;femme div/dép/mariée;garant;4;voiture;37;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;18;retards antérieurs;radio/tv;2320;<100;sans emploi;2;homme marié/veuf;aucun;3;immobilier;34;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;7;retards antérieurs;radio/tv;846;épargne inconnue;>=7;3;homme célibataire;aucun;4;pas de propriété;36;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+0<=X<200;36;existant remboursé;nouvelle voiture;14318;<100;>=7;4;homme célibataire;aucun;2;pas de propriété;57;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;6;critique/autre crédit existant;nouvelle voiture;362;100<=X<500;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;52;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;20;existant remboursé;meubles/équipement;2212;épargne inconnue;4<=X<7;4;homme célibataire;aucun;4;voiture;39;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;18;existant remboursé;voiture occasion;12976;<100;sans emploi;3;femme div/dép/mariée;aucun;4;pas de propriété;38;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;22;existant remboursé;nouvelle voiture;1283;épargne inconnue;4<=X<7;4;femme div/dép/mariée;aucun;4;assurance vie;25;aucun;locataire;1;qualifié;1;aucun;oui;bon
+>=200;12;existant remboursé;nouvelle voiture;1330;<100;<1;4;homme célibataire;aucun;1;immobilier;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;30;retards antérieurs;affaires;4272;100<=X<500;1<=X<4;2;homme célibataire;aucun;2;assurance vie;26;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;2238;<100;1<=X<4;2;femme div/dép/mariée;aucun;1;voiture;25;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;radio/tv;1126;épargne inconnue;<1;4;femme div/dép/mariée;aucun;2;immobilier;21;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;18;critique/autre crédit existant;meubles/équipement;7374;<100;sans emploi;4;homme célibataire;aucun;4;assurance vie;40;magasins;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;15;critique/autre crédit existant;affaires;2326;500<=X<1000;1<=X<4;2;homme célibataire;aucun;4;voiture;27;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;9;existant remboursé;affaires;1449;<100;4<=X<7;3;femme div/dép/mariée;aucun;2;voiture;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;nouvelle voiture;1820;<100;1<=X<4;2;homme marié/veuf;aucun;2;assurance vie;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;12;existant remboursé;meubles/équipement;983;>=1000;<1;1;femme div/dép/mariée;aucun;4;immobilier;19;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+<0;36;existant remboursé;nouvelle voiture;3249;<100;4<=X<7;2;homme célibataire;aucun;4;pas de propriété;39;banque;gratuit;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+<0;6;critique/autre crédit existant;radio/tv;1957;<100;4<=X<7;1;femme div/dép/mariée;aucun;4;voiture;31;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;9;critique/autre crédit existant;meubles/équipement;2406;<100;sans emploi;2;homme célibataire;aucun;3;voiture;31;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+0<=X<200;39;retards antérieurs;études;11760;100<=X<500;4<=X<7;2;homme célibataire;aucun;3;pas de propriété;32;aucun;locataire;1;qualifié;1;oui;oui;bon
+<0;12;existant remboursé;meubles/équipement;2578;<100;sans emploi;3;femme div/dép/mariée;aucun;4;pas de propriété;55;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+<0;36;critique/autre crédit existant;meubles/équipement;2348;<100;1<=X<4;3;homme marié/veuf;aucun;2;assurance vie;46;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;1223;<100;>=7;1;homme divorcé/séparé;aucun;1;immobilier;46;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;radio/tv;1516;>=1000;1<=X<4;4;femme div/dép/mariée;aucun;1;immobilier;43;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;radio/tv;1473;<100;<1;3;homme marié/veuf;aucun;4;immobilier;39;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;18;critique/autre crédit existant;affaires;1887;épargne inconnue;1<=X<4;4;homme marié/veuf;aucun;4;immobilier;28;banque;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;retards antérieurs;affaires;8648;<100;<1;2;homme célibataire;aucun;2;voiture;27;banque;propriétaire;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;14;retards antérieurs;nouvelle voiture;802;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;27;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;18;retards antérieurs;nouvelle voiture;2899;épargne inconnue;>=7;4;homme célibataire;aucun;4;voiture;43;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+0<=X<200;24;existant remboursé;radio/tv;2039;<100;<1;1;homme marié/veuf;aucun;1;assurance vie;22;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;voiture occasion;2197;épargne inconnue;4<=X<7;4;homme célibataire;aucun;4;voiture;43;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+<0;15;existant remboursé;radio/tv;1053;<100;<1;4;homme marié/veuf;aucun;2;immobilier;27;aucun;propriétaire;1;qualifié;1;aucun;non;bon
+pas_de_compte;24;existant remboursé;radio/tv;3235;500<=X<1000;>=7;3;homme divorcé/séparé;aucun;2;voiture;26;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+>=200;12;critique/autre crédit existant;nouvelle voiture;939;500<=X<1000;4<=X<7;4;homme marié/veuf;aucun;2;immobilier;28;aucun;propriétaire;3;qualifié;1;oui;oui;mauvais
+0<=X<200;24;existant remboursé;radio/tv;1967;<100;>=7;4;femme div/dép/mariée;aucun;4;voiture;20;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;33;critique/autre crédit existant;voiture occasion;7253;<100;4<=X<7;3;homme célibataire;aucun;2;voiture;35;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;affaires;2292;<100;sans emploi;4;homme célibataire;aucun;2;voiture;42;magasins;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;10;existant remboursé;nouvelle voiture;1597;500<=X<1000;1<=X<4;3;homme célibataire;aucun;2;pas de propriété;40;aucun;locataire;1;unqualifié resident;2;aucun;non;bon
+<0;24;existant remboursé;nouvelle voiture;1381;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;2;assurance vie;35;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;voiture occasion;5842;<100;>=7;2;homme célibataire;aucun;2;assurance vie;35;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+<0;12;existant remboursé;nouvelle voiture;2579;<100;<1;4;homme célibataire;aucun;1;immobilier;33;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+<0;18;retards antérieurs;études;8471;épargne inconnue;1<=X<4;1;femme div/dép/mariée;aucun;2;voiture;23;aucun;locataire;2;qualifié;1;oui;oui;bon
+pas_de_compte;21;existant remboursé;nouvelle voiture;2782;500<=X<1000;4<=X<7;1;femme div/dép/mariée;aucun;2;voiture;31;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;nouvelle voiture;1042;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;2;assurance vie;33;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;15;existant remboursé;nouvelle voiture;3186;>=1000;4<=X<7;2;femme div/dép/mariée;aucun;3;voiture;20;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;voiture occasion;2028;épargne inconnue;1<=X<4;4;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;critique/autre crédit existant;nouvelle voiture;958;<100;4<=X<7;2;homme célibataire;aucun;3;immobilier;47;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;21;retards antérieurs;meubles/équipement;1591;100<=X<500;4<=X<7;4;homme célibataire;aucun;3;immobilier;34;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;meubles/équipement;2762;épargne inconnue;>=7;1;femme div/dép/mariée;aucun;2;assurance vie;25;banque;propriétaire;1;qualifié;1;oui;oui;mauvais
+0<=X<200;18;existant remboursé;voiture occasion;2779;<100;1<=X<4;1;homme marié/veuf;aucun;3;voiture;21;aucun;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;28;critique/autre crédit existant;radio/tv;2743;<100;>=7;4;homme célibataire;aucun;2;voiture;29;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;1149;>=1000;1<=X<4;4;homme célibataire;aucun;3;immobilier;46;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;9;existant remboursé;meubles/équipement;1313;<100;>=7;1;homme célibataire;aucun;4;voiture;20;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;18;critique/autre crédit existant;réparations;1190;<100;sans emploi;2;femme div/dép/mariée;aucun;4;pas de propriété;55;aucun;gratuit;3;sans emploi/non qualif non résident;2;aucun;oui;mauvais
+pas_de_compte;5;existant remboursé;affaires;3448;<100;4<=X<7;1;homme célibataire;aucun;4;immobilier;74;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;autre;11328;<100;1<=X<4;2;homme célibataire;co-emprunteur;3;voiture;29;banque;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;6;critique/autre crédit existant;meubles/équipement;1872;<100;sans emploi;4;homme célibataire;aucun;4;pas de propriété;36;aucun;gratuit;3;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;24;critique/autre crédit existant;réparations;2058;<100;1<=X<4;4;homme divorcé/séparé;aucun;2;immobilier;33;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;9;existant remboursé;meubles/équipement;2136;<100;1<=X<4;3;homme célibataire;aucun;2;immobilier;25;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1484;épargne inconnue;1<=X<4;2;homme marié/veuf;aucun;1;immobilier;25;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;6;existant remboursé;réparations;660;500<=X<1000;4<=X<7;2;homme marié/veuf;aucun;4;immobilier;23;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;nouvelle voiture;1287;>=1000;>=7;4;femme div/dép/mariée;aucun;4;immobilier;37;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;42;critique/autre crédit existant;réparations;3394;<100;sans emploi;4;homme célibataire;co-emprunteur;4;voiture;65;aucun;propriétaire;2;sans emploi/non qualif non résident;1;aucun;oui;bon
+>=200;12;tout remboursé;affaires;609;<100;<1;4;femme div/dép/mariée;aucun;1;immobilier;26;aucun;propriétaire;1;sans emploi/non qualif non résident;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;nouvelle voiture;1884;<100;>=7;4;homme célibataire;aucun;4;voiture;39;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;12;existant remboursé;meubles/équipement;1620;<100;1<=X<4;2;femme div/dép/mariée;co-emprunteur;3;assurance vie;30;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;20;retards antérieurs;autre;2629;<100;1<=X<4;2;homme célibataire;aucun;3;voiture;29;banque;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;études;719;<100;>=7;4;homme célibataire;aucun;4;voiture;41;banque;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+0<=X<200;48;critique/autre crédit existant;meubles/équipement;5096;<100;1<=X<4;2;femme div/dép/mariée;aucun;3;voiture;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;9;critique/autre crédit existant;études;1244;épargne inconnue;>=7;4;femme div/dép/mariée;aucun;4;assurance vie;41;aucun;locataire;2;unqualifié resident;1;aucun;oui;bon
+<0;36;existant remboursé;nouvelle voiture;1842;<100;<1;4;femme div/dép/mariée;aucun;4;voiture;34;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+0<=X<200;7;existant remboursé;radio/tv;2576;<100;1<=X<4;2;homme célibataire;garant;2;immobilier;35;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+>=200;12;existant remboursé;meubles/équipement;1424;épargne inconnue;>=7;3;femme div/dép/mariée;aucun;4;immobilier;55;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;15;retards antérieurs;réparations;1512;>=1000;1<=X<4;3;homme marié/veuf;aucun;3;assurance vie;61;magasins;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;voiture occasion;11054;épargne inconnue;1<=X<4;4;homme célibataire;aucun;2;voiture;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;6;existant remboursé;radio/tv;518;<100;1<=X<4;3;femme div/dép/mariée;aucun;1;immobilier;29;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;12;aucun crédit/tout remboursé;meubles/équipement;2759;<100;>=7;2;homme célibataire;aucun;4;assurance vie;34;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;voiture occasion;2670;<100;>=7;4;homme célibataire;aucun;4;voiture;35;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;24;existant remboursé;nouvelle voiture;4817;<100;4<=X<7;2;homme célibataire;co-emprunteur;3;assurance vie;31;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;24;existant remboursé;voiture occasion;2679;<100;<1;4;femme div/dép/mariée;aucun;1;pas de propriété;29;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;11;critique/autre crédit existant;nouvelle voiture;3905;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;36;aucun;locataire;2;qualifié;2;aucun;oui;bon
+<0;12;existant remboursé;voiture occasion;3386;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;35;aucun;gratuit;1;qualifié;1;oui;oui;mauvais
+<0;6;existant remboursé;électroménager;343;<100;<1;4;femme div/dép/mariée;aucun;1;immobilier;27;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;radio/tv;4594;<100;<1;3;homme célibataire;aucun;2;voiture;32;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;36;existant remboursé;meubles/équipement;3620;<100;1<=X<4;1;homme célibataire;garant;2;assurance vie;37;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;15;existant remboursé;nouvelle voiture;1721;<100;<1;2;homme célibataire;aucun;3;immobilier;36;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;meubles/équipement;3017;<100;<1;3;femme div/dép/mariée;aucun;1;immobilier;34;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;formation professionnelle;754;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;38;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;affaires;1950;<100;4<=X<7;4;homme célibataire;aucun;1;voiture;34;magasins;propriétaire;2;qualifié;1;oui;oui;bon
+<0;24;existant remboursé;voiture occasion;2924;<100;1<=X<4;3;homme célibataire;garant;4;pas de propriété;63;banque;propriétaire;1;qualifié;2;oui;oui;bon
+<0;24;retards antérieurs;radio/tv;1659;<100;<1;4;femme div/dép/mariée;aucun;2;voiture;29;aucun;locataire;1;unqualifié resident;1;oui;oui;mauvais
+pas_de_compte;48;retards antérieurs;radio/tv;7238;épargne inconnue;>=7;3;homme célibataire;aucun;3;voiture;32;banque;propriétaire;2;qualifié;2;aucun;oui;bon
+pas_de_compte;33;retards antérieurs;affaires;2764;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;voiture;26;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;24;retards antérieurs;voiture occasion;4679;<100;4<=X<7;3;homme célibataire;aucun;3;voiture;35;aucun;propriétaire;2;unqualifié resident;1;oui;oui;bon
+0<=X<200;24;existant remboursé;radio/tv;3092;100<=X<500;<1;3;homme marié/veuf;aucun;2;voiture;22;aucun;locataire;1;qualifié;1;oui;oui;mauvais
+<0;6;existant remboursé;études;448;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;23;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;9;existant remboursé;nouvelle voiture;654;<100;1<=X<4;4;homme célibataire;aucun;3;voiture;28;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;6;existant remboursé;formation professionnelle;1238;épargne inconnue;sans emploi;4;homme célibataire;aucun;4;assurance vie;36;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+0<=X<200;18;critique/autre crédit existant;radio/tv;1245;<100;1<=X<4;4;homme marié/veuf;aucun;2;voiture;33;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;18;aucun crédit/tout remboursé;meubles/équipement;3114;<100;<1;1;femme div/dép/mariée;aucun;4;assurance vie;26;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;39;existant remboursé;voiture occasion;2569;500<=X<1000;1<=X<4;4;homme célibataire;aucun;4;voiture;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+>=200;24;existant remboursé;radio/tv;5152;<100;4<=X<7;4;homme célibataire;aucun;2;voiture;25;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;affaires;1037;100<=X<500;4<=X<7;3;homme célibataire;aucun;4;immobilier;39;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;15;critique/autre crédit existant;meubles/équipement;1478;<100;>=7;4;homme célibataire;aucun;4;voiture;44;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+0<=X<200;12;critique/autre crédit existant;radio/tv;3573;<100;1<=X<4;1;femme div/dép/mariée;aucun;1;immobilier;23;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;nouvelle voiture;1201;<100;<1;4;homme célibataire;aucun;1;assurance vie;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;30;existant remboursé;meubles/équipement;3622;>=1000;>=7;4;femme div/dép/mariée;aucun;4;assurance vie;57;aucun;locataire;2;qualifié;1;oui;oui;bon
+pas_de_compte;15;retards antérieurs;meubles/équipement;960;>=1000;4<=X<7;3;femme div/dép/mariée;aucun;2;assurance vie;30;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;nouvelle voiture;1163;500<=X<1000;1<=X<4;4;homme célibataire;aucun;4;immobilier;44;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;6;retards antérieurs;nouvelle voiture;1209;<100;sans emploi;4;homme célibataire;aucun;4;assurance vie;47;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;12;existant remboursé;radio/tv;3077;<100;1<=X<4;2;homme célibataire;aucun;4;voiture;52;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;nouvelle voiture;3757;<100;>=7;4;femme div/dép/mariée;co-emprunteur;4;pas de propriété;62;aucun;gratuit;1;qualifié;1;oui;oui;bon
+pas_de_compte;10;existant remboursé;nouvelle voiture;1418;100<=X<500;1<=X<4;3;homme célibataire;aucun;2;immobilier;35;aucun;locataire;1;unqualifié resident;1;aucun;non;bon
+pas_de_compte;6;existant remboursé;nouvelle voiture;3518;<100;1<=X<4;2;homme célibataire;garant;3;assurance vie;26;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;1934;<100;>=7;2;homme célibataire;aucun;2;pas de propriété;26;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;27;aucun crédit/tout remboursé;affaires;8318;<100;>=7;2;femme div/dép/mariée;aucun;4;pas de propriété;42;aucun;gratuit;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;6;critique/autre crédit existant;radio/tv;1237;100<=X<500;1<=X<4;1;femme div/dép/mariée;aucun;1;assurance vie;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;6;existant remboursé;radio/tv;368;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;38;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;12;critique/autre crédit existant;nouvelle voiture;2122;<100;1<=X<4;3;homme célibataire;aucun;2;immobilier;39;aucun;locataire;2;unqualifié resident;2;aucun;non;bon
+<0;24;existant remboursé;meubles/équipement;2996;épargne inconnue;1<=X<4;2;homme marié/veuf;aucun;4;voiture;20;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;36;existant remboursé;meubles/équipement;9034;100<=X<500;<1;4;homme célibataire;co-emprunteur;1;pas de propriété;29;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;meubles/équipement;1585;<100;4<=X<7;4;homme célibataire;aucun;3;assurance vie;40;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;radio/tv;1301;<100;>=7;4;homme marié/veuf;garant;2;immobilier;32;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+>=200;6;critique/autre crédit existant;nouvelle voiture;1323;100<=X<500;>=7;2;homme divorcé/séparé;aucun;4;voiture;28;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+<0;24;existant remboursé;nouvelle voiture;3123;<100;<1;4;femme div/dép/mariée;aucun;1;assurance vie;27;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;36;existant remboursé;voiture occasion;5493;<100;>=7;2;homme célibataire;aucun;4;pas de propriété;42;aucun;gratuit;1;qualifié;2;aucun;oui;bon
+>=200;9;existant remboursé;radio/tv;1126;100<=X<500;>=7;2;homme divorcé/séparé;aucun;4;immobilier;49;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;24;critique/autre crédit existant;radio/tv;1216;100<=X<500;<1;4;homme célibataire;aucun;4;pas de propriété;38;banque;propriétaire;2;qualifié;2;aucun;oui;mauvais
+<0;24;existant remboursé;nouvelle voiture;1207;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;24;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;10;existant remboursé;nouvelle voiture;1309;épargne inconnue;1<=X<4;4;homme célibataire;garant;4;assurance vie;27;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+>=200;15;critique/autre crédit existant;voiture occasion;2360;500<=X<1000;1<=X<4;2;homme célibataire;aucun;2;voiture;36;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;15;tout remboursé;nouvelle voiture;6850;100<=X<500;sans emploi;1;homme célibataire;aucun;2;assurance vie;34;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;2;oui;oui;mauvais
+pas_de_compte;24;existant remboursé;radio/tv;1413;<100;1<=X<4;4;homme marié/veuf;aucun;2;assurance vie;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;39;existant remboursé;voiture occasion;8588;100<=X<500;>=7;4;homme célibataire;aucun;2;voiture;45;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;12;existant remboursé;nouvelle voiture;759;<100;4<=X<7;4;homme célibataire;aucun;2;immobilier;26;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;36;existant remboursé;voiture occasion;4686;<100;1<=X<4;2;homme célibataire;aucun;2;pas de propriété;32;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+>=200;15;existant remboursé;affaires;2687;<100;4<=X<7;2;homme célibataire;aucun;4;assurance vie;26;aucun;locataire;1;qualifié;1;oui;oui;bon
+0<=X<200;12;retards antérieurs;radio/tv;585;<100;1<=X<4;4;homme marié/veuf;co-emprunteur;4;immobilier;20;aucun;locataire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;nouvelle voiture;2255;épargne inconnue;<1;4;homme célibataire;aucun;1;assurance vie;54;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;6;critique/autre crédit existant;nouvelle voiture;609;<100;4<=X<7;4;femme div/dép/mariée;aucun;3;assurance vie;37;aucun;propriétaire;2;qualifié;1;aucun;non;bon
+<0;6;critique/autre crédit existant;nouvelle voiture;1361;<100;<1;2;homme célibataire;aucun;4;immobilier;40;aucun;propriétaire;1;unqualifié resident;2;aucun;non;bon
+pas_de_compte;36;critique/autre crédit existant;meubles/équipement;7127;<100;<1;2;femme div/dép/mariée;aucun;4;assurance vie;23;aucun;locataire;2;qualifié;1;oui;oui;mauvais
+<0;6;existant remboursé;nouvelle voiture;1203;100<=X<500;>=7;3;homme célibataire;aucun;2;assurance vie;43;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;6;critique/autre crédit existant;radio/tv;700;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;36;aucun;gratuit;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;réparations;5507;<100;>=7;3;homme célibataire;aucun;4;pas de propriété;44;aucun;gratuit;2;qualifié;1;aucun;oui;bon
+<0;18;existant remboursé;radio/tv;3190;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;immobilier;24;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;48;aucun crédit/tout remboursé;meubles/équipement;7119;<100;1<=X<4;3;homme célibataire;aucun;4;pas de propriété;53;aucun;gratuit;2;qualifié;2;aucun;oui;mauvais
+pas_de_compte;24;existant remboursé;voiture occasion;3488;100<=X<500;4<=X<7;3;femme div/dép/mariée;aucun;4;voiture;23;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;18;existant remboursé;radio/tv;1113;<100;1<=X<4;4;femme div/dép/mariée;garant;4;immobilier;26;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+0<=X<200;26;existant remboursé;voiture occasion;7966;<100;<1;2;homme célibataire;aucun;3;voiture;30;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;15;critique/autre crédit existant;études;1532;100<=X<500;1<=X<4;4;femme div/dép/mariée;aucun;3;voiture;31;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;4;critique/autre crédit existant;radio/tv;1503;<100;4<=X<7;2;homme célibataire;aucun;1;immobilier;42;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+<0;36;existant remboursé;radio/tv;2302;<100;1<=X<4;4;homme divorcé/séparé;aucun;4;voiture;31;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;6;existant remboursé;nouvelle voiture;662;<100;<1;3;homme célibataire;aucun;4;immobilier;41;aucun;propriétaire;1;unqualifié resident;2;oui;oui;bon
+0<=X<200;36;existant remboursé;études;2273;<100;4<=X<7;3;homme célibataire;aucun;1;voiture;32;aucun;propriétaire;2;qualifié;2;aucun;oui;bon
+0<=X<200;15;existant remboursé;nouvelle voiture;2631;100<=X<500;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;28;aucun;locataire;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;12;retards antérieurs;voiture occasion;1503;<100;1<=X<4;4;homme marié/veuf;aucun;4;immobilier;41;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;1311;100<=X<500;4<=X<7;4;homme marié/veuf;aucun;3;assurance vie;26;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;3105;épargne inconnue;<1;4;homme célibataire;aucun;2;voiture;25;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+>=200;21;critique/autre crédit existant;études;2319;<100;<1;2;homme divorcé/séparé;aucun;1;voiture;33;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;6;existant remboursé;nouvelle voiture;1374;épargne inconnue;sans emploi;4;femme div/dép/mariée;aucun;3;assurance vie;75;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;18;critique/autre crédit existant;meubles/équipement;3612;<100;>=7;3;femme div/dép/mariée;aucun;4;assurance vie;37;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;48;existant remboursé;nouvelle voiture;7763;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;42;banque;gratuit;1;hautement qualifié/indépendant/cadre;1;aucun;oui;mauvais
+>=200;18;existant remboursé;meubles/équipement;3049;<100;<1;1;femme div/dép/mariée;aucun;1;assurance vie;45;magasins;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1534;<100;<1;1;homme marié/veuf;aucun;1;immobilier;23;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;retards antérieurs;nouvelle voiture;2032;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;60;aucun;gratuit;2;qualifié;1;oui;oui;bon
+<0;30;existant remboursé;meubles/équipement;6350;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;31;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+>=200;18;existant remboursé;meubles/équipement;2864;<100;1<=X<4;2;homme célibataire;aucun;1;immobilier;34;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;nouvelle voiture;1255;<100;>=7;4;homme célibataire;aucun;4;immobilier;61;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;24;retards antérieurs;nouvelle voiture;1333;<100;sans emploi;4;homme célibataire;aucun;2;immobilier;43;aucun;gratuit;2;qualifié;2;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;nouvelle voiture;2022;<100;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;37;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;1552;<100;4<=X<7;3;homme célibataire;aucun;1;voiture;32;banque;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;12;tout remboursé;radio/tv;626;<100;1<=X<4;4;femme div/dép/mariée;aucun;4;immobilier;24;banque;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;48;critique/autre crédit existant;voiture occasion;8858;épargne inconnue;4<=X<7;2;homme célibataire;aucun;1;pas de propriété;35;aucun;gratuit;2;qualifié;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;réparations;996;épargne inconnue;4<=X<7;4;femme div/dép/mariée;aucun;4;immobilier;23;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;6;tout remboursé;radio/tv;1750;500<=X<1000;>=7;2;homme célibataire;aucun;4;assurance vie;45;banque;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+<0;48;existant remboursé;radio/tv;6999;<100;4<=X<7;1;homme marié/veuf;garant;1;immobilier;34;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+0<=X<200;12;critique/autre crédit existant;nouvelle voiture;1995;100<=X<500;<1;4;homme célibataire;aucun;1;voiture;27;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;9;existant remboursé;études;1199;<100;4<=X<7;4;femme div/dép/mariée;aucun;4;assurance vie;67;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1331;<100;<1;2;homme célibataire;aucun;1;voiture;22;magasins;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;18;aucun crédit/tout remboursé;nouvelle voiture;2278;100<=X<500;<1;3;femme div/dép/mariée;aucun;3;voiture;28;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;21;aucun crédit/tout remboursé;nouvelle voiture;5003;épargne inconnue;1<=X<4;1;femme div/dép/mariée;aucun;4;assurance vie;29;banque;propriétaire;2;qualifié;1;oui;oui;mauvais
+<0;24;tout remboursé;meubles/équipement;3552;<100;4<=X<7;3;homme célibataire;aucun;4;voiture;27;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;18;critique/autre crédit existant;meubles/équipement;1928;<100;<1;2;homme célibataire;aucun;2;immobilier;31;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;mauvais
+<0;24;existant remboursé;voiture occasion;2964;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;49;banque;gratuit;1;qualifié;2;oui;oui;bon
+<0;24;tout remboursé;radio/tv;1546;<100;4<=X<7;4;homme célibataire;garant;4;voiture;24;banque;locataire;1;unqualifié resident;1;aucun;oui;mauvais
+>=200;6;retards antérieurs;radio/tv;683;<100;<1;2;femme div/dép/mariée;aucun;1;assurance vie;29;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;36;existant remboursé;nouvelle voiture;12389;épargne inconnue;1<=X<4;1;homme célibataire;aucun;4;pas de propriété;37;aucun;gratuit;1;qualifié;1;oui;oui;mauvais
+0<=X<200;24;retards antérieurs;affaires;4712;épargne inconnue;1<=X<4;4;homme célibataire;aucun;2;assurance vie;37;banque;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;24;retards antérieurs;radio/tv;1553;100<=X<500;4<=X<7;3;femme div/dép/mariée;aucun;2;assurance vie;23;aucun;locataire;2;qualifié;1;oui;oui;bon
+<0;12;existant remboursé;nouvelle voiture;1372;<100;4<=X<7;2;homme divorcé/séparé;aucun;3;voiture;36;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;radio/tv;2578;>=1000;>=7;2;homme célibataire;aucun;2;voiture;34;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;48;existant remboursé;radio/tv;3979;épargne inconnue;4<=X<7;4;homme célibataire;aucun;1;voiture;41;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+<0;48;existant remboursé;radio/tv;6758;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;voiture;31;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+<0;24;existant remboursé;meubles/équipement;3234;<100;<1;4;femme div/dép/mariée;aucun;4;immobilier;23;aucun;locataire;1;unqualifié resident;1;oui;oui;mauvais
+pas_de_compte;30;critique/autre crédit existant;radio/tv;5954;<100;4<=X<7;3;homme célibataire;co-emprunteur;2;voiture;38;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;voiture occasion;5433;épargne inconnue;sans emploi;2;femme div/dép/mariée;aucun;4;assurance vie;26;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;15;existant remboursé;affaires;806;<100;1<=X<4;4;femme div/dép/mariée;aucun;4;assurance vie;22;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;9;existant remboursé;radio/tv;1082;<100;>=7;4;homme célibataire;aucun;4;voiture;27;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;15;critique/autre crédit existant;meubles/équipement;2788;<100;4<=X<7;2;femme div/dép/mariée;co-emprunteur;3;voiture;24;banque;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;2930;<100;4<=X<7;2;femme div/dép/mariée;aucun;1;immobilier;27;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;études;1927;épargne inconnue;1<=X<4;3;femme div/dép/mariée;aucun;2;voiture;33;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;36;critique/autre crédit existant;nouvelle voiture;2820;<100;<1;4;homme divorcé/séparé;aucun;4;voiture;27;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;existant remboursé;formation professionnelle;937;<100;<1;4;homme marié/veuf;aucun;3;voiture;27;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;18;critique/autre crédit existant;nouvelle voiture;1056;<100;>=7;3;homme célibataire;garant;3;immobilier;30;banque;propriétaire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;12;critique/autre crédit existant;nouvelle voiture;3124;<100;<1;1;homme célibataire;aucun;3;immobilier;49;banque;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;9;existant remboursé;meubles/équipement;1388;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;immobilier;26;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;36;existant remboursé;réparations;2384;<100;<1;4;homme célibataire;aucun;1;pas de propriété;33;aucun;locataire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;nouvelle voiture;2133;épargne inconnue;>=7;4;femme div/dép/mariée;aucun;4;pas de propriété;52;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;18;existant remboursé;meubles/équipement;2039;<100;1<=X<4;1;femme div/dép/mariée;aucun;4;immobilier;20;banque;locataire;1;qualifié;1;aucun;oui;mauvais
+<0;9;critique/autre crédit existant;nouvelle voiture;2799;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;36;aucun;locataire;2;qualifié;2;aucun;oui;bon
+<0;12;existant remboursé;meubles/équipement;1289;<100;1<=X<4;4;homme célibataire;garant;1;assurance vie;21;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;18;existant remboursé;électroménager;1217;<100;1<=X<4;4;homme marié/veuf;aucun;3;immobilier;47;aucun;propriétaire;1;unqualifié resident;1;oui;oui;mauvais
+<0;12;critique/autre crédit existant;meubles/équipement;2246;<100;>=7;3;homme célibataire;aucun;3;assurance vie;60;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+<0;12;critique/autre crédit existant;radio/tv;385;<100;4<=X<7;4;femme div/dép/mariée;aucun;3;immobilier;58;aucun;propriétaire;4;unqualifié resident;1;oui;oui;bon
+0<=X<200;24;retards antérieurs;nouvelle voiture;1965;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;42;aucun;locataire;2;qualifié;1;oui;oui;bon
+pas_de_compte;21;existant remboursé;affaires;1572;>=1000;>=7;4;femme div/dép/mariée;aucun;4;immobilier;36;banque;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;nouvelle voiture;2718;<100;1<=X<4;3;femme div/dép/mariée;aucun;4;assurance vie;20;aucun;locataire;1;unqualifié resident;1;oui;oui;mauvais
+<0;24;tout remboursé;autre;1358;épargne inconnue;>=7;4;homme célibataire;aucun;3;voiture;40;magasins;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+0<=X<200;6;tout remboursé;nouvelle voiture;931;100<=X<500;<1;1;femme div/dép/mariée;aucun;1;assurance vie;32;magasins;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+<0;24;existant remboursé;nouvelle voiture;1442;<100;4<=X<7;4;femme div/dép/mariée;aucun;4;voiture;23;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;24;aucun crédit/tout remboursé;affaires;4241;<100;1<=X<4;1;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;3;unqualifié resident;1;oui;oui;mauvais
+pas_de_compte;18;critique/autre crédit existant;nouvelle voiture;2775;<100;4<=X<7;2;homme célibataire;aucun;2;assurance vie;31;banque;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;retards antérieurs;affaires;3863;<100;1<=X<4;1;homme célibataire;aucun;2;pas de propriété;32;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+0<=X<200;7;existant remboursé;radio/tv;2329;<100;<1;1;femme div/dép/mariée;garant;1;immobilier;45;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;9;existant remboursé;meubles/équipement;918;<100;1<=X<4;4;femme div/dép/mariée;aucun;1;assurance vie;30;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;24;tout remboursé;études;1837;<100;4<=X<7;4;femme div/dép/mariée;aucun;4;pas de propriété;34;banque;gratuit;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;36;existant remboursé;meubles/équipement;3349;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;voiture;28;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+>=200;10;existant remboursé;meubles/équipement;1275;<100;<1;4;femme div/dép/mariée;aucun;2;assurance vie;23;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;tout remboursé;meubles/équipement;2828;500<=X<1000;1<=X<4;4;homme célibataire;aucun;4;immobilier;22;magasins;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;24;critique/autre crédit existant;affaires;4526;<100;1<=X<4;3;homme célibataire;aucun;2;immobilier;74;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;36;existant remboursé;radio/tv;2671;100<=X<500;1<=X<4;4;femme div/dép/mariée;co-emprunteur;4;pas de propriété;50;aucun;gratuit;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;18;existant remboursé;radio/tv;2051;<100;<1;4;homme célibataire;aucun;1;immobilier;33;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;15;existant remboursé;voiture occasion;1300;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;45;banque;gratuit;1;qualifié;2;aucun;oui;bon
+<0;12;existant remboursé;électroménager;741;100<=X<500;sans emploi;4;femme div/dép/mariée;aucun;3;assurance vie;22;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+>=200;10;existant remboursé;nouvelle voiture;1240;100<=X<500;>=7;1;femme div/dép/mariée;aucun;4;pas de propriété;48;aucun;gratuit;1;unqualifié resident;2;aucun;oui;mauvais
+<0;21;existant remboursé;radio/tv;3357;>=1000;<1;4;femme div/dép/mariée;aucun;2;voiture;29;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;tout remboursé;voiture occasion;3632;<100;1<=X<4;1;femme div/dép/mariée;garant;4;voiture;22;banque;locataire;1;qualifié;1;aucun;non;bon
+pas_de_compte;18;retards antérieurs;meubles/équipement;1808;<100;4<=X<7;4;femme div/dép/mariée;aucun;1;immobilier;22;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;48;aucun crédit/tout remboursé;affaires;12204;épargne inconnue;1<=X<4;2;homme célibataire;aucun;2;voiture;48;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;60;retards antérieurs;radio/tv;9157;épargne inconnue;1<=X<4;2;homme célibataire;aucun;2;pas de propriété;27;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+<0;6;critique/autre crédit existant;nouvelle voiture;3676;<100;1<=X<4;1;homme célibataire;aucun;3;immobilier;37;aucun;locataire;3;qualifié;2;aucun;oui;bon
+0<=X<200;30;existant remboursé;meubles/équipement;3441;100<=X<500;1<=X<4;2;femme div/dép/mariée;co-emprunteur;4;voiture;21;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;nouvelle voiture;640;<100;1<=X<4;4;homme divorcé/séparé;aucun;2;immobilier;49;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;21;critique/autre crédit existant;affaires;3652;<100;4<=X<7;2;homme célibataire;aucun;3;assurance vie;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;nouvelle voiture;1530;<100;1<=X<4;3;homme célibataire;aucun;2;assurance vie;32;banque;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;48;existant remboursé;affaires;3914;épargne inconnue;1<=X<4;4;homme divorcé/séparé;aucun;2;immobilier;38;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;12;existant remboursé;meubles/équipement;1858;<100;<1;4;femme div/dép/mariée;aucun;1;voiture;22;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;18;existant remboursé;radio/tv;2600;<100;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;65;aucun;gratuit;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;15;existant remboursé;radio/tv;1979;épargne inconnue;>=7;4;homme célibataire;aucun;2;voiture;35;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+>=200;6;existant remboursé;meubles/équipement;2116;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;41;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;9;tout remboursé;nouvelle voiture;1437;100<=X<500;4<=X<7;2;homme célibataire;aucun;3;pas de propriété;29;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;42;critique/autre crédit existant;meubles/équipement;4042;500<=X<1000;1<=X<4;4;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;9;existant remboursé;études;3832;épargne inconnue;>=7;1;homme célibataire;aucun;4;immobilier;64;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;24;existant remboursé;radio/tv;3660;<100;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;18;tout remboursé;meubles/équipement;1553;<100;1<=X<4;4;homme célibataire;aucun;3;voiture;44;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;15;existant remboursé;radio/tv;1444;épargne inconnue;<1;4;homme célibataire;aucun;1;assurance vie;23;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;9;existant remboursé;meubles/équipement;1980;<100;<1;2;femme div/dép/mariée;co-emprunteur;2;voiture;19;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;24;existant remboursé;nouvelle voiture;1355;<100;<1;3;femme div/dép/mariée;aucun;4;voiture;25;aucun;propriétaire;1;unqualifié resident;1;oui;oui;mauvais
+pas_de_compte;12;existant remboursé;études;1393;<100;>=7;4;homme célibataire;aucun;4;assurance vie;47;banque;propriétaire;3;qualifié;2;oui;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;1376;500<=X<1000;4<=X<7;4;femme div/dép/mariée;aucun;1;voiture;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;60;retards antérieurs;radio/tv;15653;<100;4<=X<7;2;homme célibataire;aucun;4;voiture;21;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;1493;<100;<1;4;femme div/dép/mariée;aucun;3;voiture;34;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;42;retards antérieurs;radio/tv;4370;<100;4<=X<7;3;homme célibataire;aucun;2;assurance vie;26;banque;propriétaire;2;qualifié;2;oui;oui;mauvais
+<0;18;existant remboursé;études;750;<100;sans emploi;4;femme div/dép/mariée;aucun;1;immobilier;27;aucun;propriétaire;1;sans emploi/non qualif non résident;1;aucun;oui;mauvais
+0<=X<200;15;existant remboursé;réparations;1308;<100;>=7;4;homme célibataire;aucun;4;voiture;38;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;15;existant remboursé;études;4623;100<=X<500;1<=X<4;3;homme célibataire;aucun;2;assurance vie;40;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;radio/tv;1851;<100;4<=X<7;4;homme marié/veuf;garant;2;voiture;33;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;18;critique/autre crédit existant;radio/tv;1880;<100;4<=X<7;4;homme marié/veuf;aucun;1;assurance vie;32;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;36;retards antérieurs;affaires;7980;épargne inconnue;<1;4;homme célibataire;aucun;4;voiture;27;aucun;locataire;2;qualifié;1;oui;oui;mauvais
+<0;30;aucun crédit/tout remboursé;meubles/équipement;4583;<100;1<=X<4;2;homme divorcé/séparé;garant;2;immobilier;32;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;existant remboursé;nouvelle voiture;1386;500<=X<1000;1<=X<4;2;femme div/dép/mariée;aucun;2;assurance vie;26;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+>=200;24;existant remboursé;nouvelle voiture;947;<100;4<=X<7;4;homme célibataire;aucun;3;pas de propriété;38;banque;gratuit;1;qualifié;2;aucun;oui;mauvais
+<0;12;existant remboursé;études;684;<100;1<=X<4;4;homme célibataire;aucun;4;voiture;40;aucun;locataire;1;unqualifié resident;2;aucun;oui;mauvais
+<0;48;existant remboursé;études;7476;<100;4<=X<7;4;homme célibataire;aucun;1;pas de propriété;50;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;12;existant remboursé;meubles/équipement;1922;<100;1<=X<4;4;homme célibataire;aucun;2;assurance vie;37;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+<0;24;existant remboursé;nouvelle voiture;2303;<100;>=7;4;homme célibataire;co-emprunteur;1;immobilier;45;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;36;retards antérieurs;nouvelle voiture;8086;100<=X<500;>=7;2;homme célibataire;aucun;4;voiture;42;aucun;propriétaire;4;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;voiture occasion;2346;<100;4<=X<7;4;homme célibataire;aucun;3;voiture;35;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;14;existant remboursé;nouvelle voiture;3973;<100;sans emploi;1;homme célibataire;aucun;4;pas de propriété;22;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;888;<100;>=7;4;homme célibataire;aucun;4;voiture;41;banque;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+pas_de_compte;48;existant remboursé;radio/tv;10222;épargne inconnue;4<=X<7;4;homme célibataire;aucun;3;voiture;37;magasins;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;30;aucun crédit/tout remboursé;affaires;4221;<100;1<=X<4;2;femme div/dép/mariée;aucun;1;voiture;28;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;18;critique/autre crédit existant;meubles/équipement;6361;<100;>=7;2;homme célibataire;aucun;1;pas de propriété;41;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+>=200;12;existant remboursé;radio/tv;1297;<100;1<=X<4;3;homme marié/veuf;aucun;4;immobilier;23;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;nouvelle voiture;900;épargne inconnue;1<=X<4;4;homme marié/veuf;aucun;2;voiture;23;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;21;existant remboursé;meubles/équipement;2241;<100;>=7;4;homme célibataire;aucun;2;immobilier;50;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;6;retards antérieurs;meubles/équipement;1050;<100;sans emploi;4;homme célibataire;aucun;1;assurance vie;35;magasins;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+>=200;6;critique/autre crédit existant;études;1047;<100;1<=X<4;2;femme div/dép/mariée;aucun;4;assurance vie;50;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;autre;6314;<100;sans emploi;4;homme célibataire;co-emprunteur;2;pas de propriété;27;banque;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;30;tout remboursé;meubles/équipement;3496;>=1000;1<=X<4;4;homme célibataire;aucun;2;voiture;34;magasins;propriétaire;1;qualifié;2;oui;oui;bon
+pas_de_compte;48;tout remboursé;affaires;3609;<100;1<=X<4;1;femme div/dép/mariée;aucun;1;immobilier;27;magasins;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;12;critique/autre crédit existant;nouvelle voiture;4843;<100;>=7;3;homme célibataire;co-emprunteur;4;assurance vie;43;aucun;locataire;2;qualifié;1;oui;oui;mauvais
+>=200;30;critique/autre crédit existant;radio/tv;3017;<100;>=7;4;homme célibataire;aucun;4;assurance vie;47;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;affaires;4139;100<=X<500;1<=X<4;3;homme célibataire;aucun;3;assurance vie;27;aucun;propriétaire;2;unqualifié resident;1;oui;oui;bon
+pas_de_compte;36;existant remboursé;affaires;5742;100<=X<500;4<=X<7;2;homme célibataire;aucun;2;voiture;31;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;60;existant remboursé;nouvelle voiture;10366;<100;>=7;2;homme célibataire;aucun;4;assurance vie;42;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;6;critique/autre crédit existant;nouvelle voiture;2080;500<=X<1000;1<=X<4;1;homme marié/veuf;aucun;2;voiture;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;21;retards antérieurs;affaires;2580;500<=X<1000;<1;4;homme célibataire;aucun;2;immobilier;41;banque;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+pas_de_compte;30;critique/autre crédit existant;radio/tv;4530;<100;4<=X<7;4;femme div/dép/mariée;aucun;4;voiture;26;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;24;critique/autre crédit existant;meubles/équipement;5150;<100;>=7;4;homme célibataire;aucun;4;voiture;33;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;72;existant remboursé;radio/tv;5595;100<=X<500;1<=X<4;2;homme marié/veuf;aucun;2;voiture;24;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;24;existant remboursé;radio/tv;2384;<100;>=7;4;homme célibataire;aucun;4;immobilier;64;banque;locataire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;radio/tv;1453;<100;<1;3;femme div/dép/mariée;aucun;1;immobilier;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;6;existant remboursé;études;1538;<100;<1;1;femme div/dép/mariée;aucun;2;pas de propriété;56;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;2279;épargne inconnue;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;37;aucun;gratuit;1;qualifié;1;oui;oui;bon
+pas_de_compte;15;retards antérieurs;radio/tv;1478;<100;1<=X<4;4;homme marié/veuf;aucun;3;immobilier;33;banque;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;radio/tv;5103;<100;<1;3;homme marié/veuf;aucun;3;pas de propriété;47;aucun;gratuit;3;qualifié;1;oui;oui;bon
+0<=X<200;36;retards antérieurs;affaires;9857;100<=X<500;4<=X<7;1;homme célibataire;aucun;3;assurance vie;31;aucun;propriétaire;2;unqualifié resident;2;oui;oui;bon
+pas_de_compte;60;existant remboursé;nouvelle voiture;6527;épargne inconnue;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;34;aucun;gratuit;1;qualifié;2;oui;oui;bon
+>=200;10;critique/autre crédit existant;radio/tv;1347;épargne inconnue;4<=X<7;4;homme célibataire;aucun;2;assurance vie;27;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;36;retards antérieurs;nouvelle voiture;2862;100<=X<500;>=7;4;homme célibataire;aucun;3;pas de propriété;30;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+pas_de_compte;9;existant remboursé;radio/tv;2753;100<=X<500;>=7;3;homme célibataire;co-emprunteur;4;voiture;35;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;12;existant remboursé;nouvelle voiture;3651;>=1000;1<=X<4;1;homme célibataire;aucun;3;assurance vie;31;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;15;critique/autre crédit existant;meubles/équipement;975;<100;1<=X<4;2;homme divorcé/séparé;aucun;3;assurance vie;25;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;15;existant remboursé;réparations;2631;100<=X<500;1<=X<4;3;femme div/dép/mariée;aucun;2;immobilier;25;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;radio/tv;2896;100<=X<500;<1;2;homme célibataire;aucun;1;voiture;29;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;6;critique/autre crédit existant;nouvelle voiture;4716;épargne inconnue;<1;1;homme célibataire;aucun;3;immobilier;44;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;2284;<100;4<=X<7;4;homme célibataire;aucun;2;voiture;28;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;6;existant remboursé;voiture occasion;1236;500<=X<1000;1<=X<4;2;homme célibataire;aucun;4;assurance vie;50;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1103;<100;4<=X<7;4;homme célibataire;garant;3;immobilier;29;aucun;propriétaire;2;qualifié;1;aucun;non;bon
+pas_de_compte;12;critique/autre crédit existant;nouvelle voiture;926;<100;sans emploi;1;femme div/dép/mariée;aucun;2;assurance vie;38;aucun;propriétaire;1;sans emploi/non qualif non résident;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;1800;<100;1<=X<4;4;homme célibataire;aucun;2;voiture;24;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+>=200;15;existant remboursé;études;1905;<100;>=7;4;homme célibataire;aucun;4;voiture;40;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;meubles/équipement;1123;500<=X<1000;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;29;aucun;locataire;1;unqualifié resident;1;aucun;oui;mauvais
+<0;48;critique/autre crédit existant;voiture occasion;6331;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;46;aucun;gratuit;2;qualifié;1;oui;oui;mauvais
+>=200;24;existant remboursé;radio/tv;1377;100<=X<500;>=7;4;femme div/dép/mariée;aucun;2;pas de propriété;47;aucun;gratuit;1;qualifié;1;oui;oui;bon
+0<=X<200;30;retards antérieurs;affaires;2503;100<=X<500;>=7;4;homme célibataire;aucun;2;assurance vie;41;magasins;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;27;existant remboursé;affaires;2528;<100;<1;4;femme div/dép/mariée;aucun;1;assurance vie;32;aucun;propriétaire;1;qualifié;2;oui;oui;bon
+pas_de_compte;15;existant remboursé;nouvelle voiture;5324;500<=X<1000;>=7;1;femme div/dép/mariée;aucun;4;pas de propriété;35;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+0<=X<200;48;existant remboursé;nouvelle voiture;6560;100<=X<500;4<=X<7;3;homme célibataire;aucun;2;assurance vie;24;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;12;aucun crédit/tout remboursé;meubles/équipement;2969;<100;<1;4;femme div/dép/mariée;aucun;3;assurance vie;25;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;9;existant remboursé;radio/tv;1206;<100;>=7;4;femme div/dép/mariée;aucun;4;immobilier;25;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;9;existant remboursé;radio/tv;2118;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;37;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;629;500<=X<1000;>=7;4;homme célibataire;aucun;3;assurance vie;32;banque;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;6;tout remboursé;études;1198;<100;>=7;4;femme div/dép/mariée;aucun;4;pas de propriété;35;aucun;gratuit;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;21;existant remboursé;voiture occasion;2476;épargne inconnue;>=7;4;homme célibataire;aucun;4;immobilier;46;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;9;critique/autre crédit existant;radio/tv;1138;<100;1<=X<4;4;homme célibataire;aucun;4;immobilier;25;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;60;existant remboursé;nouvelle voiture;14027;<100;4<=X<7;4;homme célibataire;aucun;2;pas de propriété;27;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;30;critique/autre crédit existant;voiture occasion;7596;épargne inconnue;>=7;1;homme célibataire;aucun;4;voiture;63;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;30;critique/autre crédit existant;radio/tv;3077;épargne inconnue;>=7;3;homme célibataire;aucun;2;voiture;40;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+pas_de_compte;18;existant remboursé;radio/tv;1505;<100;1<=X<4;4;homme célibataire;aucun;2;pas de propriété;32;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+>=200;24;critique/autre crédit existant;radio/tv;3148;épargne inconnue;1<=X<4;3;homme célibataire;aucun;2;voiture;31;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;20;aucun crédit/tout remboursé;voiture occasion;6148;100<=X<500;>=7;3;homme marié/veuf;aucun;4;voiture;31;banque;propriétaire;2;qualifié;1;oui;oui;bon
+>=200;9;aucun crédit/tout remboursé;radio/tv;1337;<100;<1;4;homme célibataire;aucun;2;voiture;34;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+0<=X<200;6;tout remboursé;études;433;>=1000;<1;4;femme div/dép/mariée;aucun;2;assurance vie;24;banque;locataire;1;qualifié;2;aucun;oui;mauvais
+<0;12;existant remboursé;nouvelle voiture;1228;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;immobilier;24;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;9;existant remboursé;radio/tv;790;500<=X<1000;1<=X<4;4;femme div/dép/mariée;aucun;3;immobilier;66;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;27;existant remboursé;nouvelle voiture;2570;<100;1<=X<4;3;femme div/dép/mariée;aucun;3;immobilier;21;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;6;critique/autre crédit existant;nouvelle voiture;250;>=1000;1<=X<4;2;femme div/dép/mariée;aucun;2;immobilier;41;banque;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;15;critique/autre crédit existant;radio/tv;1316;500<=X<1000;1<=X<4;2;homme marié/veuf;aucun;2;assurance vie;47;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;18;existant remboursé;radio/tv;1882;<100;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;25;banque;locataire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;48;tout remboursé;affaires;6416;<100;>=7;4;femme div/dép/mariée;aucun;3;pas de propriété;59;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+>=200;24;critique/autre crédit existant;affaires;1275;>=1000;1<=X<4;2;homme divorcé/séparé;aucun;4;immobilier;36;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;24;retards antérieurs;radio/tv;6403;<100;<1;1;homme célibataire;aucun;2;voiture;33;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;existant remboursé;radio/tv;1987;<100;1<=X<4;2;homme célibataire;aucun;4;immobilier;21;aucun;locataire;1;unqualifié resident;2;aucun;oui;mauvais
+0<=X<200;8;existant remboursé;radio/tv;760;<100;4<=X<7;4;femme div/dép/mariée;garant;2;immobilier;44;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;voiture occasion;2603;>=1000;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;28;aucun;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;4;critique/autre crédit existant;nouvelle voiture;3380;<100;4<=X<7;1;femme div/dép/mariée;aucun;1;immobilier;37;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+0<=X<200;36;tout remboursé;électroménager;3990;épargne inconnue;<1;3;femme div/dép/mariée;aucun;2;pas de propriété;29;banque;propriétaire;1;sans emploi/non qualif non résident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;voiture occasion;11560;<100;1<=X<4;1;femme div/dép/mariée;aucun;4;voiture;23;aucun;locataire;2;hautement qualifié/indépendant/cadre;1;aucun;oui;mauvais
+<0;18;existant remboursé;nouvelle voiture;4380;100<=X<500;1<=X<4;3;homme célibataire;aucun;4;voiture;35;aucun;propriétaire;1;unqualifié resident;2;oui;oui;bon
+pas_de_compte;6;critique/autre crédit existant;nouvelle voiture;6761;<100;4<=X<7;1;homme célibataire;aucun;3;pas de propriété;45;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+0<=X<200;30;aucun crédit/tout remboursé;affaires;4280;100<=X<500;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;26;aucun;locataire;2;unqualifié resident;1;aucun;oui;mauvais
+<0;24;tout remboursé;nouvelle voiture;2325;100<=X<500;4<=X<7;2;homme célibataire;aucun;3;voiture;32;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;10;tout remboursé;radio/tv;1048;<100;1<=X<4;4;homme célibataire;aucun;4;immobilier;23;magasins;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;21;existant remboursé;radio/tv;3160;épargne inconnue;>=7;4;homme célibataire;aucun;3;assurance vie;41;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;24;tout remboursé;meubles/équipement;2483;500<=X<1000;1<=X<4;4;homme célibataire;aucun;4;immobilier;22;magasins;propriétaire;1;qualifié;1;oui;oui;bon
+<0;39;critique/autre crédit existant;meubles/équipement;14179;épargne inconnue;4<=X<7;4;homme célibataire;aucun;4;assurance vie;30;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;13;critique/autre crédit existant;affaires;1797;<100;<1;3;homme célibataire;aucun;1;assurance vie;28;banque;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;15;existant remboursé;nouvelle voiture;2511;<100;sans emploi;1;femme div/dép/mariée;aucun;4;voiture;23;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;nouvelle voiture;1274;<100;<1;3;femme div/dép/mariée;aucun;1;immobilier;37;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;21;existant remboursé;voiture occasion;5248;épargne inconnue;1<=X<4;1;homme célibataire;aucun;3;voiture;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;15;existant remboursé;voiture occasion;3029;<100;4<=X<7;2;homme célibataire;aucun;2;voiture;33;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;6;existant remboursé;meubles/équipement;428;<100;>=7;2;femme div/dép/mariée;aucun;1;assurance vie;49;banque;propriétaire;1;qualifié;1;oui;oui;bon
+<0;18;existant remboursé;nouvelle voiture;976;<100;<1;1;femme div/dép/mariée;aucun;2;voiture;23;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;12;existant remboursé;affaires;841;100<=X<500;4<=X<7;2;femme div/dép/mariée;aucun;4;immobilier;23;aucun;locataire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;30;critique/autre crédit existant;radio/tv;5771;<100;4<=X<7;4;femme div/dép/mariée;aucun;2;voiture;25;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;retards antérieurs;réparations;1555;>=1000;>=7;4;homme célibataire;aucun;4;pas de propriété;55;aucun;gratuit;2;qualifié;2;aucun;oui;mauvais
+<0;24;existant remboursé;nouvelle voiture;1285;épargne inconnue;4<=X<7;4;femme div/dép/mariée;aucun;4;pas de propriété;32;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+>=200;6;critique/autre crédit existant;nouvelle voiture;1299;<100;1<=X<4;1;homme célibataire;aucun;1;immobilier;74;aucun;propriétaire;3;sans emploi/non qualif non résident;2;aucun;non;bon
+>=200;15;critique/autre crédit existant;radio/tv;1271;épargne inconnue;1<=X<4;3;homme célibataire;aucun;4;pas de propriété;39;aucun;gratuit;2;qualifié;1;oui;oui;mauvais
+pas_de_compte;24;existant remboursé;nouvelle voiture;1393;<100;1<=X<4;2;homme célibataire;garant;2;immobilier;31;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;12;critique/autre crédit existant;nouvelle voiture;691;<100;>=7;4;homme célibataire;aucun;3;assurance vie;35;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;15;critique/autre crédit existant;nouvelle voiture;5045;épargne inconnue;>=7;1;femme div/dép/mariée;aucun;4;voiture;59;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;18;critique/autre crédit existant;meubles/équipement;2124;<100;1<=X<4;4;femme div/dép/mariée;aucun;4;immobilier;24;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+<0;12;existant remboursé;radio/tv;2214;<100;1<=X<4;4;homme célibataire;aucun;3;assurance vie;24;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;21;critique/autre crédit existant;nouvelle voiture;12680;épargne inconnue;>=7;4;homme célibataire;aucun;4;pas de propriété;30;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;nouvelle voiture;2463;100<=X<500;4<=X<7;4;homme marié/veuf;aucun;3;assurance vie;27;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;12;existant remboursé;radio/tv;1155;<100;>=7;3;homme marié/veuf;garant;3;immobilier;40;banque;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;30;existant remboursé;meubles/équipement;3108;<100;<1;2;homme divorcé/séparé;aucun;4;assurance vie;31;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;10;existant remboursé;voiture occasion;2901;épargne inconnue;<1;1;femme div/dép/mariée;aucun;4;immobilier;31;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;12;critique/autre crédit existant;meubles/équipement;3617;<100;>=7;1;homme célibataire;aucun;4;voiture;28;aucun;locataire;3;qualifié;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;1655;<100;>=7;2;homme célibataire;aucun;4;immobilier;63;aucun;propriétaire;2;unqualifié resident;1;oui;oui;bon
+<0;24;existant remboursé;voiture occasion;2812;épargne inconnue;>=7;2;femme div/dép/mariée;aucun;4;immobilier;26;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;36;critique/autre crédit existant;études;8065;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;pas de propriété;25;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;21;critique/autre crédit existant;voiture occasion;3275;<100;>=7;1;homme célibataire;aucun;4;voiture;36;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;24;critique/autre crédit existant;radio/tv;2223;100<=X<500;>=7;4;homme célibataire;aucun;4;assurance vie;52;banque;propriétaire;2;qualifié;1;aucun;oui;bon
+>=200;12;critique/autre crédit existant;nouvelle voiture;1480;500<=X<1000;sans emploi;2;homme célibataire;aucun;4;pas de propriété;66;banque;gratuit;3;sans emploi/non qualif non résident;1;aucun;oui;bon
+<0;24;existant remboursé;nouvelle voiture;1371;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;4;immobilier;25;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;nouvelle voiture;3535;<100;4<=X<7;4;homme célibataire;aucun;4;voiture;37;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;18;existant remboursé;radio/tv;3509;<100;4<=X<7;4;femme div/dép/mariée;garant;1;immobilier;25;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;36;critique/autre crédit existant;voiture occasion;5711;>=1000;>=7;4;homme célibataire;aucun;2;voiture;38;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;18;existant remboursé;réparations;3872;<100;sans emploi;2;femme div/dép/mariée;aucun;4;voiture;67;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;39;critique/autre crédit existant;radio/tv;4933;<100;4<=X<7;2;homme célibataire;garant;2;immobilier;25;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;nouvelle voiture;1940;>=1000;>=7;4;homme célibataire;aucun;4;immobilier;60;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;12;aucun crédit/tout remboursé;formation professionnelle;1410;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;31;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;836;100<=X<500;<1;4;femme div/dép/mariée;aucun;2;assurance vie;23;banque;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;20;existant remboursé;voiture occasion;6468;épargne inconnue;sans emploi;1;homme divorcé/séparé;aucun;4;immobilier;60;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;18;existant remboursé;affaires;1941;>=1000;1<=X<4;4;homme célibataire;aucun;2;assurance vie;35;aucun;propriétaire;1;unqualifié resident;1;oui;oui;bon
+pas_de_compte;22;existant remboursé;radio/tv;2675;500<=X<1000;>=7;3;homme célibataire;aucun;4;voiture;40;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;48;critique/autre crédit existant;voiture occasion;2751;épargne inconnue;>=7;4;homme célibataire;aucun;3;voiture;38;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+0<=X<200;48;retards antérieurs;études;6224;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;50;aucun;gratuit;1;qualifié;1;aucun;oui;mauvais
+<0;40;critique/autre crédit existant;études;5998;<100;1<=X<4;4;homme célibataire;aucun;3;pas de propriété;27;banque;propriétaire;1;qualifié;1;oui;oui;mauvais
+0<=X<200;21;existant remboursé;affaires;1188;<100;>=7;2;femme div/dép/mariée;aucun;4;assurance vie;39;aucun;propriétaire;1;qualifié;2;aucun;oui;mauvais
+pas_de_compte;24;existant remboursé;voiture occasion;6313;épargne inconnue;>=7;3;homme célibataire;aucun;4;voiture;41;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+pas_de_compte;6;critique/autre crédit existant;meubles/équipement;1221;épargne inconnue;1<=X<4;1;homme marié/veuf;aucun;2;assurance vie;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+>=200;24;existant remboursé;meubles/équipement;2892;<100;>=7;3;homme divorcé/séparé;aucun;4;pas de propriété;51;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;meubles/équipement;3062;500<=X<1000;>=7;4;homme célibataire;aucun;3;pas de propriété;32;aucun;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;9;existant remboursé;meubles/équipement;2301;100<=X<500;<1;2;femme div/dép/mariée;aucun;4;assurance vie;22;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;18;existant remboursé;voiture occasion;7511;épargne inconnue;>=7;1;homme célibataire;aucun;4;assurance vie;51;aucun;gratuit;1;qualifié;2;oui;oui;mauvais
+pas_de_compte;12;critique/autre crédit existant;meubles/équipement;1258;<100;<1;2;femme div/dép/mariée;aucun;4;assurance vie;22;aucun;locataire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;24;retards antérieurs;nouvelle voiture;717;épargne inconnue;>=7;4;homme marié/veuf;aucun;4;voiture;54;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+0<=X<200;9;existant remboursé;nouvelle voiture;1549;épargne inconnue;<1;4;homme célibataire;aucun;2;immobilier;35;aucun;propriétaire;1;sans emploi/non qualif non résident;1;aucun;oui;bon
+pas_de_compte;24;critique/autre crédit existant;études;1597;<100;>=7;4;homme célibataire;aucun;4;pas de propriété;54;aucun;gratuit;2;qualifié;2;aucun;oui;bon
+0<=X<200;18;critique/autre crédit existant;radio/tv;1795;<100;>=7;3;femme div/dép/mariée;garant;4;immobilier;48;banque;locataire;2;unqualifié resident;1;oui;oui;bon
+<0;20;critique/autre crédit existant;meubles/équipement;4272;<100;>=7;1;femme div/dép/mariée;aucun;4;assurance vie;24;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;976;épargne inconnue;>=7;4;homme célibataire;aucun;4;voiture;35;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;12;existant remboursé;nouvelle voiture;7472;épargne inconnue;sans emploi;1;femme div/dép/mariée;aucun;2;immobilier;24;aucun;locataire;1;sans emploi/non qualif non résident;1;aucun;oui;bon
+<0;36;existant remboursé;nouvelle voiture;9271;<100;4<=X<7;2;homme célibataire;aucun;1;voiture;24;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+0<=X<200;6;existant remboursé;radio/tv;590;<100;<1;3;homme marié/veuf;aucun;3;immobilier;26;aucun;propriétaire;1;unqualifié resident;1;aucun;non;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;930;épargne inconnue;>=7;4;homme célibataire;aucun;4;immobilier;65;aucun;propriétaire;4;qualifié;1;aucun;oui;bon
+0<=X<200;42;tout remboursé;voiture occasion;9283;<100;sans emploi;1;homme célibataire;aucun;2;pas de propriété;55;banque;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;15;aucun crédit/tout remboursé;nouvelle voiture;1778;<100;<1;2;femme div/dép/mariée;aucun;1;immobilier;26;aucun;locataire;2;sans emploi/non qualif non résident;1;aucun;oui;mauvais
+0<=X<200;8;existant remboursé;affaires;907;<100;<1;3;homme marié/veuf;aucun;2;immobilier;26;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+0<=X<200;6;existant remboursé;radio/tv;484;<100;4<=X<7;3;homme marié/veuf;garant;3;immobilier;28;banque;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;36;critique/autre crédit existant;voiture occasion;9629;<100;4<=X<7;4;homme célibataire;aucun;4;voiture;24;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+<0;48;existant remboursé;électroménager;3051;<100;1<=X<4;3;homme célibataire;aucun;4;voiture;54;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;48;existant remboursé;nouvelle voiture;3931;<100;4<=X<7;4;homme célibataire;aucun;4;pas de propriété;46;aucun;gratuit;1;qualifié;2;aucun;oui;mauvais
+0<=X<200;36;retards antérieurs;nouvelle voiture;7432;<100;1<=X<4;2;femme div/dép/mariée;aucun;2;assurance vie;54;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;6;existant remboursé;électroménager;1338;500<=X<1000;1<=X<4;1;homme divorcé/séparé;aucun;4;immobilier;62;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;6;critique/autre crédit existant;radio/tv;1554;<100;4<=X<7;1;femme div/dép/mariée;aucun;2;voiture;24;aucun;locataire;2;qualifié;1;oui;oui;bon
+<0;36;existant remboursé;autre;15857;<100;sans emploi;2;homme divorcé/séparé;co-emprunteur;3;voiture;43;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;aucun;oui;bon
+<0;18;existant remboursé;radio/tv;1345;<100;1<=X<4;4;homme marié/veuf;aucun;3;immobilier;26;banque;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;nouvelle voiture;1101;<100;1<=X<4;3;homme marié/veuf;aucun;2;immobilier;27;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+>=200;12;existant remboursé;radio/tv;3016;<100;1<=X<4;3;homme marié/veuf;aucun;1;voiture;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;36;existant remboursé;meubles/équipement;2712;<100;>=7;2;homme célibataire;aucun;2;assurance vie;41;banque;propriétaire;1;qualifié;2;aucun;oui;mauvais
+<0;8;critique/autre crédit existant;nouvelle voiture;731;<100;>=7;4;homme célibataire;aucun;4;immobilier;47;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;meubles/équipement;3780;<100;<1;3;homme divorcé/séparé;aucun;2;voiture;35;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;21;critique/autre crédit existant;nouvelle voiture;1602;<100;>=7;4;homme marié/veuf;aucun;3;voiture;30;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;18;critique/autre crédit existant;nouvelle voiture;3966;<100;>=7;1;femme div/dép/mariée;aucun;4;immobilier;33;banque;locataire;3;qualifié;1;oui;oui;mauvais
+pas_de_compte;18;aucun crédit/tout remboursé;affaires;4165;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;36;magasins;propriétaire;2;qualifié;2;aucun;oui;mauvais
+<0;36;existant remboursé;voiture occasion;8335;épargne inconnue;>=7;3;homme célibataire;aucun;4;pas de propriété;47;aucun;gratuit;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;48;retards antérieurs;affaires;6681;épargne inconnue;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;38;aucun;gratuit;1;qualifié;2;oui;oui;bon
+pas_de_compte;24;retards antérieurs;affaires;2375;500<=X<1000;1<=X<4;4;homme célibataire;aucun;2;voiture;44;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+<0;18;existant remboursé;nouvelle voiture;1216;<100;<1;4;femme div/dép/mariée;aucun;3;voiture;23;aucun;locataire;1;qualifié;1;oui;oui;mauvais
+<0;45;aucun crédit/tout remboursé;affaires;11816;<100;>=7;2;homme célibataire;aucun;4;voiture;29;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;24;existant remboursé;radio/tv;5084;épargne inconnue;>=7;2;femme div/dép/mariée;aucun;4;voiture;42;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+>=200;15;existant remboursé;radio/tv;2327;<100;<1;2;femme div/dép/mariée;aucun;3;immobilier;25;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+<0;12;aucun crédit/tout remboursé;nouvelle voiture;1082;<100;1<=X<4;4;homme célibataire;aucun;4;voiture;48;banque;propriétaire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;12;existant remboursé;radio/tv;886;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;2;voiture;21;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;4;existant remboursé;meubles/équipement;601;<100;<1;1;femme div/dép/mariée;aucun;3;immobilier;23;aucun;locataire;1;unqualifié resident;2;aucun;oui;bon
+<0;24;critique/autre crédit existant;voiture occasion;2957;<100;>=7;4;homme célibataire;aucun;4;assurance vie;63;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;24;critique/autre crédit existant;radio/tv;2611;<100;>=7;4;homme marié/veuf;co-emprunteur;3;immobilier;46;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;36;existant remboursé;meubles/équipement;5179;<100;4<=X<7;4;homme célibataire;aucun;2;assurance vie;29;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;21;retards antérieurs;voiture occasion;2993;<100;1<=X<4;3;homme célibataire;aucun;2;immobilier;28;magasins;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;18;existant remboursé;réparations;1943;<100;<1;4;femme div/dép/mariée;aucun;4;immobilier;23;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;tout remboursé;affaires;1559;<100;4<=X<7;4;homme célibataire;aucun;4;voiture;50;banque;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;18;existant remboursé;meubles/équipement;3422;<100;>=7;4;homme célibataire;aucun;4;assurance vie;47;banque;propriétaire;3;qualifié;2;oui;oui;bon
+0<=X<200;21;existant remboursé;meubles/équipement;3976;épargne inconnue;4<=X<7;2;homme célibataire;aucun;3;voiture;35;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;18;existant remboursé;nouvelle voiture;6761;épargne inconnue;1<=X<4;2;homme célibataire;aucun;4;voiture;68;aucun;locataire;2;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;existant remboursé;nouvelle voiture;1249;<100;<1;4;homme marié/veuf;aucun;2;immobilier;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;9;existant remboursé;radio/tv;1364;<100;4<=X<7;3;homme célibataire;aucun;4;immobilier;59;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;radio/tv;709;<100;>=7;4;homme célibataire;aucun;4;immobilier;57;magasins;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+<0;20;critique/autre crédit existant;nouvelle voiture;2235;<100;1<=X<4;4;homme marié/veuf;garant;2;assurance vie;33;banque;locataire;2;qualifié;1;aucun;non;mauvais
+pas_de_compte;24;critique/autre crédit existant;voiture occasion;4042;épargne inconnue;4<=X<7;3;homme célibataire;aucun;4;assurance vie;43;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;15;critique/autre crédit existant;radio/tv;1471;<100;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;35;aucun;gratuit;2;qualifié;1;oui;oui;bon
+<0;18;tout remboursé;nouvelle voiture;1442;<100;4<=X<7;4;homme célibataire;aucun;4;pas de propriété;32;aucun;gratuit;2;unqualifié resident;2;aucun;oui;mauvais
+pas_de_compte;36;retards antérieurs;nouvelle voiture;10875;<100;>=7;2;homme célibataire;aucun;2;voiture;45;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+pas_de_compte;24;existant remboursé;nouvelle voiture;1474;100<=X<500;<1;4;homme marié/veuf;aucun;3;immobilier;33;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;10;existant remboursé;formation professionnelle;894;épargne inconnue;4<=X<7;4;femme div/dép/mariée;aucun;3;assurance vie;40;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;15;critique/autre crédit existant;meubles/équipement;3343;<100;1<=X<4;4;homme célibataire;aucun;2;pas de propriété;28;aucun;gratuit;1;qualifié;1;oui;oui;bon
+<0;15;existant remboursé;nouvelle voiture;3959;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;assurance vie;29;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;9;existant remboursé;nouvelle voiture;3577;100<=X<500;1<=X<4;1;homme célibataire;garant;2;immobilier;26;aucun;locataire;1;qualifié;2;aucun;non;bon
+pas_de_compte;24;critique/autre crédit existant;voiture occasion;5804;>=1000;1<=X<4;4;homme célibataire;aucun;2;immobilier;27;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;retards antérieurs;affaires;2169;<100;1<=X<4;4;homme marié/veuf;aucun;2;voiture;28;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+<0;24;existant remboursé;radio/tv;2439;<100;<1;4;femme div/dép/mariée;aucun;4;immobilier;35;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;27;critique/autre crédit existant;meubles/équipement;4526;>=1000;<1;4;homme célibataire;aucun;2;immobilier;32;magasins;propriétaire;2;unqualifié resident;2;oui;oui;bon
+pas_de_compte;10;existant remboursé;meubles/équipement;2210;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;25;banque;locataire;1;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;15;existant remboursé;meubles/équipement;2221;500<=X<1000;1<=X<4;2;femme div/dép/mariée;aucun;4;voiture;20;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;18;existant remboursé;radio/tv;2389;<100;<1;4;femme div/dép/mariée;aucun;1;voiture;27;magasins;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;meubles/équipement;3331;<100;>=7;2;homme célibataire;aucun;4;assurance vie;42;magasins;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;36;existant remboursé;affaires;7409;épargne inconnue;>=7;3;homme célibataire;aucun;2;assurance vie;37;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;meubles/équipement;652;<100;>=7;4;femme div/dép/mariée;aucun;4;assurance vie;24;aucun;locataire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;36;retards antérieurs;meubles/équipement;7678;500<=X<1000;4<=X<7;2;femme div/dép/mariée;aucun;4;voiture;40;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+>=200;6;critique/autre crédit existant;nouvelle voiture;1343;<100;>=7;1;homme célibataire;aucun;4;immobilier;46;aucun;propriétaire;2;qualifié;2;aucun;non;bon
+<0;24;critique/autre crédit existant;affaires;1382;100<=X<500;4<=X<7;4;homme célibataire;aucun;1;immobilier;26;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;15;existant remboursé;électroménager;874;épargne inconnue;<1;4;femme div/dép/mariée;aucun;1;immobilier;24;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;12;existant remboursé;meubles/équipement;3590;<100;1<=X<4;2;homme célibataire;co-emprunteur;2;assurance vie;29;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+0<=X<200;11;critique/autre crédit existant;nouvelle voiture;1322;>=1000;1<=X<4;4;femme div/dép/mariée;aucun;4;voiture;40;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;18;tout remboursé;radio/tv;1940;<100;<1;3;homme célibataire;co-emprunteur;4;pas de propriété;36;banque;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;36;existant remboursé;radio/tv;3595;<100;>=7;4;homme célibataire;aucun;2;voiture;28;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;9;existant remboursé;nouvelle voiture;1422;<100;<1;3;homme célibataire;aucun;2;pas de propriété;27;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;30;critique/autre crédit existant;radio/tv;6742;épargne inconnue;4<=X<7;2;homme célibataire;aucun;3;assurance vie;36;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;voiture occasion;7814;<100;4<=X<7;3;homme célibataire;aucun;3;voiture;38;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;voiture occasion;9277;épargne inconnue;1<=X<4;2;homme divorcé/séparé;aucun;4;pas de propriété;48;aucun;gratuit;1;qualifié;1;oui;oui;bon
+0<=X<200;30;critique/autre crédit existant;nouvelle voiture;2181;épargne inconnue;>=7;4;homme célibataire;aucun;4;immobilier;36;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;1098;<100;sans emploi;4;femme div/dép/mariée;aucun;4;voiture;65;aucun;propriétaire;2;sans emploi/non qualif non résident;1;aucun;oui;bon
+0<=X<200;24;existant remboursé;meubles/équipement;4057;<100;4<=X<7;3;homme divorcé/séparé;aucun;3;voiture;43;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+<0;12;existant remboursé;études;795;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;53;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;24;critique/autre crédit existant;affaires;2825;épargne inconnue;4<=X<7;4;homme célibataire;aucun;3;pas de propriété;34;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+0<=X<200;48;existant remboursé;affaires;15672;<100;1<=X<4;2;homme célibataire;aucun;2;voiture;23;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;36;critique/autre crédit existant;nouvelle voiture;6614;<100;>=7;4;homme célibataire;aucun;4;voiture;34;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;28;tout remboursé;voiture occasion;7824;épargne inconnue;<1;3;homme célibataire;garant;4;immobilier;40;banque;locataire;2;qualifié;2;oui;oui;bon
+<0;27;critique/autre crédit existant;affaires;2442;<100;>=7;4;homme célibataire;aucun;4;voiture;43;magasins;propriétaire;4;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+pas_de_compte;15;critique/autre crédit existant;radio/tv;1829;<100;>=7;4;homme célibataire;aucun;4;voiture;46;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+<0;12;critique/autre crédit existant;nouvelle voiture;2171;<100;1<=X<4;4;homme célibataire;aucun;4;assurance vie;38;banque;propriétaire;2;unqualifié resident;1;aucun;non;bon
+0<=X<200;36;critique/autre crédit existant;voiture occasion;5800;<100;1<=X<4;3;homme célibataire;aucun;4;voiture;34;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;18;critique/autre crédit existant;radio/tv;1169;épargne inconnue;1<=X<4;4;homme célibataire;aucun;3;assurance vie;29;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;36;retards antérieurs;voiture occasion;8947;épargne inconnue;4<=X<7;3;homme célibataire;aucun;2;voiture;31;magasins;propriétaire;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+<0;21;existant remboursé;radio/tv;2606;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;28;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;critique/autre crédit existant;meubles/équipement;1592;>=1000;4<=X<7;3;femme div/dép/mariée;aucun;2;assurance vie;35;aucun;propriétaire;1;qualifié;1;aucun;non;bon
+pas_de_compte;15;existant remboursé;meubles/équipement;2186;épargne inconnue;4<=X<7;1;femme div/dép/mariée;aucun;4;immobilier;33;banque;locataire;1;unqualifié resident;1;aucun;oui;bon
+<0;18;existant remboursé;meubles/équipement;4153;<100;1<=X<4;2;homme célibataire;co-emprunteur;3;voiture;42;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;16;critique/autre crédit existant;nouvelle voiture;2625;<100;>=7;2;homme célibataire;garant;4;assurance vie;43;banque;locataire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;20;critique/autre crédit existant;nouvelle voiture;3485;épargne inconnue;<1;2;homme divorcé/séparé;aucun;4;immobilier;44;aucun;propriétaire;2;qualifié;1;oui;oui;bon
+pas_de_compte;36;critique/autre crédit existant;voiture occasion;10477;épargne inconnue;>=7;2;homme célibataire;aucun;4;pas de propriété;42;aucun;gratuit;2;qualifié;1;aucun;oui;bon
+pas_de_compte;15;existant remboursé;radio/tv;1386;épargne inconnue;1<=X<4;4;homme marié/veuf;aucun;2;immobilier;40;aucun;locataire;1;qualifié;1;oui;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;1278;<100;>=7;4;homme célibataire;aucun;1;immobilier;36;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;12;existant remboursé;radio/tv;1107;<100;1<=X<4;2;homme célibataire;aucun;2;immobilier;20;aucun;locataire;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+<0;21;existant remboursé;nouvelle voiture;3763;épargne inconnue;4<=X<7;2;homme célibataire;co-emprunteur;2;immobilier;24;aucun;propriétaire;1;unqualifié resident;1;aucun;non;bon
+0<=X<200;36;existant remboursé;études;3711;épargne inconnue;1<=X<4;2;homme marié/veuf;aucun;2;voiture;27;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;15;retards antérieurs;voiture occasion;3594;<100;<1;1;femme div/dép/mariée;aucun;2;assurance vie;46;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;9;existant remboursé;nouvelle voiture;3195;épargne inconnue;1<=X<4;1;femme div/dép/mariée;aucun;2;immobilier;33;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;36;retards antérieurs;radio/tv;4454;<100;1<=X<4;4;femme div/dép/mariée;aucun;4;immobilier;34;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+0<=X<200;24;critique/autre crédit existant;meubles/équipement;4736;<100;<1;2;femme div/dép/mariée;aucun;4;voiture;25;banque;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;30;existant remboursé;radio/tv;2991;épargne inconnue;>=7;2;femme div/dép/mariée;aucun;4;voiture;25;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;11;existant remboursé;affaires;2142;>=1000;>=7;1;homme divorcé/séparé;aucun;2;immobilier;28;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;24;tout remboursé;affaires;3161;<100;1<=X<4;4;homme célibataire;aucun;2;assurance vie;31;aucun;locataire;1;qualifié;1;oui;oui;mauvais
+0<=X<200;48;aucun crédit/tout remboursé;autre;18424;<100;1<=X<4;1;femme div/dép/mariée;aucun;2;assurance vie;32;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;non;mauvais
+pas_de_compte;10;existant remboursé;voiture occasion;2848;100<=X<500;1<=X<4;1;homme célibataire;co-emprunteur;2;immobilier;32;aucun;propriétaire;1;qualifié;2;aucun;oui;bon
+<0;6;existant remboursé;nouvelle voiture;14896;<100;>=7;1;homme célibataire;aucun;4;pas de propriété;68;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;24;existant remboursé;meubles/équipement;2359;100<=X<500;sans emploi;1;homme divorcé/séparé;aucun;1;assurance vie;33;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+<0;24;existant remboursé;meubles/équipement;3345;<100;>=7;4;homme célibataire;aucun;2;assurance vie;39;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+pas_de_compte;18;critique/autre crédit existant;meubles/équipement;1817;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;pas de propriété;28;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;48;retards antérieurs;radio/tv;12749;500<=X<1000;4<=X<7;4;homme célibataire;aucun;1;voiture;37;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;9;existant remboursé;radio/tv;1366;<100;<1;3;femme div/dép/mariée;aucun;4;assurance vie;22;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;12;existant remboursé;nouvelle voiture;2002;<100;4<=X<7;3;homme célibataire;aucun;4;assurance vie;30;aucun;locataire;1;qualifié;2;oui;oui;bon
+<0;24;tout remboursé;meubles/équipement;6872;<100;<1;2;homme divorcé/séparé;aucun;1;assurance vie;55;banque;propriétaire;1;qualifié;1;oui;oui;mauvais
+<0;12;tout remboursé;nouvelle voiture;697;<100;<1;4;homme célibataire;aucun;2;voiture;46;banque;propriétaire;2;qualifié;1;oui;oui;mauvais
+<0;18;critique/autre crédit existant;meubles/équipement;1049;<100;<1;4;femme div/dép/mariée;aucun;4;assurance vie;21;aucun;locataire;1;qualifié;1;aucun;oui;bon
+<0;48;existant remboursé;voiture occasion;10297;<100;4<=X<7;4;homme célibataire;aucun;4;pas de propriété;39;magasins;gratuit;3;qualifié;2;oui;oui;mauvais
+pas_de_compte;30;existant remboursé;radio/tv;1867;épargne inconnue;>=7;4;homme célibataire;aucun;4;voiture;58;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;12;retards antérieurs;nouvelle voiture;1344;<100;1<=X<4;4;homme célibataire;aucun;2;immobilier;43;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+<0;24;existant remboursé;meubles/équipement;1747;<100;<1;4;homme célibataire;co-emprunteur;1;assurance vie;24;aucun;propriétaire;1;unqualifié resident;1;aucun;non;bon
+0<=X<200;9;existant remboursé;radio/tv;1670;<100;<1;4;femme div/dép/mariée;aucun;2;voiture;22;aucun;propriétaire;1;qualifié;1;oui;oui;mauvais
+pas_de_compte;9;critique/autre crédit existant;nouvelle voiture;1224;<100;1<=X<4;3;homme célibataire;aucun;1;immobilier;30;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;radio/tv;522;500<=X<1000;>=7;4;homme célibataire;aucun;4;assurance vie;42;aucun;propriétaire;2;qualifié;2;oui;oui;bon
+<0;12;existant remboursé;radio/tv;1498;<100;1<=X<4;4;femme div/dép/mariée;aucun;1;voiture;23;banque;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;30;retards antérieurs;radio/tv;1919;100<=X<500;<1;4;homme célibataire;aucun;3;pas de propriété;30;magasins;propriétaire;2;hautement qualifié/indépendant/cadre;1;aucun;oui;mauvais
+>=200;9;existant remboursé;radio/tv;745;<100;1<=X<4;3;femme div/dép/mariée;aucun;2;immobilier;28;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;6;existant remboursé;radio/tv;2063;<100;<1;4;homme marié/veuf;aucun;3;voiture;30;aucun;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;60;existant remboursé;études;6288;<100;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;42;aucun;gratuit;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;voiture occasion;6842;épargne inconnue;1<=X<4;2;homme célibataire;aucun;4;assurance vie;46;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+pas_de_compte;12;existant remboursé;nouvelle voiture;3527;épargne inconnue;<1;2;homme célibataire;aucun;3;assurance vie;45;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;2;oui;oui;bon
+pas_de_compte;10;existant remboursé;nouvelle voiture;1546;<100;1<=X<4;3;homme célibataire;aucun;2;immobilier;31;aucun;propriétaire;1;unqualifié resident;2;aucun;non;bon
+pas_de_compte;24;existant remboursé;meubles/équipement;929;épargne inconnue;4<=X<7;4;homme célibataire;aucun;2;voiture;31;magasins;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;4;critique/autre crédit existant;nouvelle voiture;1455;<100;4<=X<7;2;homme célibataire;aucun;1;immobilier;42;aucun;propriétaire;3;unqualifié resident;2;aucun;oui;bon
+<0;15;existant remboursé;meubles/équipement;1845;<100;<1;4;femme div/dép/mariée;garant;1;assurance vie;46;aucun;locataire;1;qualifié;1;aucun;oui;bon
+0<=X<200;48;aucun crédit/tout remboursé;nouvelle voiture;8358;500<=X<1000;<1;1;femme div/dép/mariée;aucun;1;voiture;30;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+<0;24;tout remboursé;meubles/équipement;3349;500<=X<1000;<1;4;homme célibataire;aucun;4;pas de propriété;30;aucun;gratuit;1;qualifié;2;oui;oui;mauvais
+pas_de_compte;12;existant remboursé;nouvelle voiture;2859;épargne inconnue;sans emploi;4;homme célibataire;aucun;4;pas de propriété;38;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;18;existant remboursé;meubles/équipement;1533;<100;<1;4;homme marié/veuf;co-emprunteur;1;assurance vie;43;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;mauvais
+pas_de_compte;24;existant remboursé;radio/tv;3621;100<=X<500;>=7;2;homme célibataire;aucun;4;voiture;31;aucun;propriétaire;2;qualifié;1;aucun;oui;mauvais
+0<=X<200;18;critique/autre crédit existant;affaires;3590;<100;sans emploi;3;homme marié/veuf;aucun;3;voiture;40;aucun;propriétaire;3;sans emploi/non qualif non résident;2;oui;oui;bon
+<0;36;retards antérieurs;affaires;2145;<100;4<=X<7;2;homme célibataire;aucun;1;voiture;24;aucun;propriétaire;2;qualifié;1;oui;oui;mauvais
+0<=X<200;24;existant remboursé;voiture occasion;4113;500<=X<1000;<1;3;femme div/dép/mariée;aucun;4;voiture;28;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;36;existant remboursé;meubles/équipement;10974;<100;sans emploi;4;femme div/dép/mariée;aucun;2;voiture;26;aucun;propriétaire;2;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+<0;12;existant remboursé;nouvelle voiture;1893;<100;1<=X<4;4;femme div/dép/mariée;garant;4;assurance vie;29;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+<0;24;critique/autre crédit existant;radio/tv;1231;>=1000;>=7;4;femme div/dép/mariée;aucun;4;assurance vie;57;aucun;locataire;2;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+>=200;30;critique/autre crédit existant;radio/tv;3656;épargne inconnue;>=7;4;homme célibataire;aucun;4;assurance vie;49;magasins;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+0<=X<200;9;critique/autre crédit existant;radio/tv;1154;<100;>=7;2;homme célibataire;aucun;4;immobilier;37;aucun;propriétaire;3;unqualifié resident;1;aucun;oui;bon
+<0;28;existant remboursé;nouvelle voiture;4006;<100;1<=X<4;3;homme célibataire;aucun;2;voiture;45;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;mauvais
+0<=X<200;24;existant remboursé;meubles/équipement;3069;100<=X<500;>=7;4;homme célibataire;aucun;4;pas de propriété;30;aucun;gratuit;1;qualifié;1;aucun;oui;bon
+pas_de_compte;6;critique/autre crédit existant;radio/tv;1740;<100;>=7;2;homme marié/veuf;aucun;2;immobilier;30;aucun;locataire;2;qualifié;1;aucun;oui;bon
+0<=X<200;21;retards antérieurs;nouvelle voiture;2353;<100;1<=X<4;1;homme divorcé/séparé;aucun;4;assurance vie;47;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;15;existant remboursé;nouvelle voiture;3556;épargne inconnue;1<=X<4;3;homme célibataire;aucun;2;pas de propriété;29;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;radio/tv;2397;500<=X<1000;>=7;3;homme célibataire;aucun;2;voiture;35;banque;propriétaire;2;qualifié;1;oui;oui;mauvais
+0<=X<200;6;existant remboursé;réparations;454;<100;<1;3;homme marié/veuf;aucun;1;assurance vie;22;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;30;existant remboursé;radio/tv;1715;épargne inconnue;1<=X<4;4;femme div/dép/mariée;aucun;1;voiture;26;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;27;critique/autre crédit existant;radio/tv;2520;500<=X<1000;1<=X<4;4;homme célibataire;aucun;2;assurance vie;23;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;mauvais
+pas_de_compte;15;existant remboursé;radio/tv;3568;<100;>=7;4;femme div/dép/mariée;aucun;2;voiture;54;banque;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;42;existant remboursé;radio/tv;7166;épargne inconnue;4<=X<7;2;homme marié/veuf;aucun;4;assurance vie;29;aucun;locataire;1;qualifié;1;oui;oui;bon
+<0;11;critique/autre crédit existant;nouvelle voiture;3939;<100;1<=X<4;1;homme célibataire;aucun;2;immobilier;40;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+0<=X<200;15;existant remboursé;réparations;1514;100<=X<500;1<=X<4;4;homme célibataire;garant;2;immobilier;22;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+pas_de_compte;24;existant remboursé;nouvelle voiture;7393;<100;1<=X<4;1;homme célibataire;aucun;4;assurance vie;43;aucun;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+<0;24;tout remboursé;nouvelle voiture;1193;<100;sans emploi;1;femme div/dép/mariée;co-emprunteur;4;pas de propriété;29;aucun;locataire;2;sans emploi/non qualif non résident;1;aucun;oui;mauvais
+<0;60;existant remboursé;affaires;7297;<100;>=7;4;homme célibataire;co-emprunteur;4;pas de propriété;36;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;30;critique/autre crédit existant;radio/tv;2831;<100;1<=X<4;4;femme div/dép/mariée;aucun;2;voiture;33;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+>=200;24;existant remboursé;radio/tv;1258;500<=X<1000;1<=X<4;3;femme div/dép/mariée;aucun;3;voiture;57;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+0<=X<200;6;existant remboursé;radio/tv;753;<100;1<=X<4;2;femme div/dép/mariée;garant;3;immobilier;64;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+0<=X<200;18;retards antérieurs;affaires;2427;épargne inconnue;>=7;4;homme célibataire;aucun;2;assurance vie;42;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;24;retards antérieurs;nouvelle voiture;2538;<100;>=7;4;homme célibataire;aucun;4;voiture;47;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;mauvais
+0<=X<200;15;tout remboursé;nouvelle voiture;1264;100<=X<500;1<=X<4;2;homme marié/veuf;aucun;2;assurance vie;25;aucun;locataire;1;qualifié;1;aucun;oui;mauvais
+0<=X<200;30;critique/autre crédit existant;meubles/équipement;8386;<100;4<=X<7;2;homme célibataire;aucun;2;assurance vie;49;aucun;propriétaire;1;qualifié;1;aucun;oui;mauvais
+pas_de_compte;48;existant remboursé;affaires;4844;<100;sans emploi;3;homme célibataire;aucun;2;voiture;33;banque;locataire;1;hautement qualifié/indépendant/cadre;1;oui;oui;mauvais
+>=200;21;existant remboursé;nouvelle voiture;2923;100<=X<500;1<=X<4;1;femme div/dép/mariée;aucun;1;voiture;28;banque;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+<0;36;existant remboursé;voiture occasion;8229;<100;1<=X<4;2;homme célibataire;aucun;2;assurance vie;26;aucun;propriétaire;1;qualifié;2;aucun;oui;mauvais
+pas_de_compte;24;critique/autre crédit existant;meubles/équipement;2028;<100;4<=X<7;2;homme célibataire;aucun;2;assurance vie;30;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+<0;15;critique/autre crédit existant;meubles/équipement;1433;<100;1<=X<4;4;femme div/dép/mariée;aucun;3;assurance vie;25;aucun;locataire;2;qualifié;1;aucun;oui;bon
+>=200;42;aucun crédit/tout remboursé;affaires;6289;<100;<1;2;homme divorcé/séparé;aucun;1;assurance vie;33;aucun;propriétaire;2;qualifié;1;aucun;oui;bon
+pas_de_compte;13;existant remboursé;radio/tv;1409;100<=X<500;sans emploi;2;femme div/dép/mariée;aucun;4;immobilier;64;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;24;existant remboursé;voiture occasion;6579;<100;sans emploi;4;homme célibataire;aucun;2;pas de propriété;29;aucun;gratuit;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+0<=X<200;24;critique/autre crédit existant;radio/tv;1743;<100;>=7;4;homme célibataire;aucun;2;assurance vie;48;aucun;propriétaire;2;unqualifié resident;1;aucun;oui;bon
+pas_de_compte;12;critique/autre crédit existant;études;3565;épargne inconnue;<1;2;homme célibataire;aucun;1;assurance vie;37;aucun;propriétaire;2;unqualifié resident;2;aucun;oui;bon
+pas_de_compte;15;tout remboursé;radio/tv;1569;100<=X<500;>=7;4;homme célibataire;aucun;4;voiture;34;banque;propriétaire;1;unqualifié resident;2;aucun;oui;bon
+<0;18;existant remboursé;radio/tv;1936;épargne inconnue;4<=X<7;2;homme marié/veuf;aucun;4;voiture;23;aucun;locataire;2;unqualifié resident;1;aucun;oui;bon
+<0;36;existant remboursé;meubles/équipement;3959;<100;sans emploi;4;homme célibataire;aucun;3;assurance vie;30;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;nouvelle voiture;2390;épargne inconnue;>=7;4;homme célibataire;aucun;3;voiture;50;aucun;propriétaire;1;qualifié;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;meubles/équipement;1736;<100;4<=X<7;3;femme div/dép/mariée;aucun;4;immobilier;31;aucun;propriétaire;1;unqualifié resident;1;aucun;oui;bon
+<0;30;existant remboursé;voiture occasion;3857;<100;1<=X<4;4;homme divorcé/séparé;aucun;4;assurance vie;40;aucun;propriétaire;1;hautement qualifié/indépendant/cadre;1;oui;oui;bon
+pas_de_compte;12;existant remboursé;radio/tv;804;<100;>=7;4;homme célibataire;aucun;4;voiture;38;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
+<0;45;existant remboursé;radio/tv;1845;<100;1<=X<4;4;homme célibataire;aucun;4;pas de propriété;23;aucun;gratuit;1;qualifié;1;oui;oui;mauvais
+0<=X<200;45;critique/autre crédit existant;voiture occasion;4576;100<=X<500;sans emploi;3;homme célibataire;aucun;4;voiture;27;aucun;propriétaire;1;qualifié;1;aucun;oui;bon
