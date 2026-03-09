@@ -7,5 +7,4 @@ imbalanced-learn
 shap
 matplotlib
 seaborn
-tensorflow-cpu
 joblib
