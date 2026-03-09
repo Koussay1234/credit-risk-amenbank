@@ -79,8 +79,7 @@ def divider():
 def load_models():
     try:
         xgb = joblib.load("meilleur_modele_xgb.pkl")
-        from tensorflow.keras.models import load_model
-        nn = load_model("modele_reseau_neurones.h5")
+        nn = joblib.load("nn_wrapper.pkl")
         sc = joblib.load("scaler.pkl")
         return xgb, nn, sc, True
     except:
@@ -293,7 +292,7 @@ else:
                 with st.spinner("Analyse IA en cours..."):
                     proba_xgb  = xgb_model.predict_proba(input_data)[0][1]
                     pred_xgb   = int(proba_xgb >= 0.5)
-                    proba_nn   = float(nn_model.predict(scaler.transform(input_data), verbose=0)[0][0])
+                    proba_nn   = nn_model.predict_proba(input_data)[0][1]
                     pred_nn    = int(proba_nn >= 0.5)
                     proba_moy  = (proba_xgb + proba_nn) / 2
                     pred_final = int(proba_moy >= 0.5)
